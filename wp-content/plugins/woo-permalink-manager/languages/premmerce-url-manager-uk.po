@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Premmerce url manager\n"
+"POT-Creation-Date: 2018-02-02 18:28+0200\n"
+"PO-Revision-Date: 2018-02-02 18:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: build/src/Admin/Admin.php:80 build/src/Admin/Admin.php:81
+#: build/views/admin/main.php:2 src/Admin/Admin.php:80 src/Admin/Admin.php:81
+msgid "Permalink Manager"
+msgstr " Посилання магазину"
+
+#: build/src/Admin/Admin.php:121 src/Admin/Admin.php:121
+msgid "Settings"
+msgstr "Налаштування"
+
+#: build/src/Admin/Admin.php:124 src/Admin/Admin.php:124
+msgid "Contact Us"
+msgstr "Зв'яжіться з нами"
+
+#: build/src/Admin/Admin.php:126 src/Admin/Admin.php:126
+msgid "Account"
+msgstr "Аккаунт"
+
+#: build/src/UrlManagerPlugin.php:108 src/UrlManagerPlugin.php:108
+#, php-format
+msgid "The %s plugin requires %s plugin to be active!"
+msgstr "Для роботи плагіна %s потрібен плагін %s"
+
+#: build/views/admin/tabs/settings.php:7 views/admin/tabs/settings.php:7
+msgid "Category"
+msgstr "Категорія"
+
+#: build/views/admin/tabs/settings.php:14
+#: build/views/admin/tabs/settings.php:42 views/admin/tabs/settings.php:14
+#: views/admin/tabs/settings.php:42
+msgid "Remove base"
+msgstr "Не показувати префікс"
+
+#: build/views/admin/tabs/settings.php:17 views/admin/tabs/settings.php:17
+msgid ""
+"Remove prefix from category URL<br> default: /product-category/accessories/"
+"action-figures/ - changed: /accessories/action-figures/"
+msgstr ""
+"Не відображати префікс в URL категорії<br> за замовчуванням: /product-"
+"category/accessories/action-figures/ - змінено: /accessories/action-figures/"
+
+#: build/views/admin/tabs/settings.php:24 views/admin/tabs/settings.php:24
+msgid "Remove parent slugs"
+msgstr "Не показувати батьківський URL"
+
+#: build/views/admin/tabs/settings.php:27 views/admin/tabs/settings.php:27
+msgid ""
+"Remove parent slugs from category URL<br> default: /product-category/"
+"accessories/action-figures/ - changed: /product-category/action-figures/"
+msgstr ""
+"Не відображати батьківський URL в категорії<br> за замовчуванням: /product-"
+"category/accessories/action-figures/ - змінено: /product-category/action-"
+"figures/"
+
+#: build/views/admin/tabs/settings.php:34 views/admin/tabs/settings.php:34
+msgid "Product"
+msgstr "Товар"
+
+#: build/views/admin/tabs/settings.php:45 views/admin/tabs/settings.php:45
+msgid ""
+"Remove prefix from product URL<br> default: /shop/accessories/action-figures/"
+"acme/ - changed: /accessories/action-figures/acme/"
+msgstr ""
+"Не відображати префікс в URL товару<br> за замовчуванням: /shop/accessories/"
+"action-figures/acme/ - змінено: /accessories/action-figures/acme/"
+
+#: views/admin/main.php:2
+msgid "Manage Permalinks"
+msgstr "Управління посиланнями магазину"
+
+#~ msgid "WooCommerce Permalink Manager"
+#~ msgstr "Управління посиланнями магазину"
+
+#~ msgid "This plugin requires %s plugin to be active!"
+#~ msgstr "Для цього плагіна необхідний плагін %s!"
+
+#~ msgid ""
+#~ "Remove prefix from product url<br> default: /shop/accessories/action-"
+#~ "figures/acme/ - changed: /accessories/action-figures/acme/"
+#~ msgstr ""
+#~ "Не відображати префікс в url товару<br> за замовчуванням: /shop/"
+#~ "accessories/action-figures/acme/ - змінено: /accessories/action-figures/"
+#~ "acme/"
+
+#~ msgid ""
+#~ "Remove parent slugs from category url<br> default: /product-category/"
+#~ "accessories/action-figures/ - changed: /product-category/action-figures/"
+#~ msgstr ""
+#~ "Не відображати батьківський url в категорії<br> за замовчуванням: /"
+#~ "product-category/accessories/action-figures/ - змінено: /product-category/"
+#~ "action-figures/"
+
+#~ msgid "Url settings"
+#~ msgstr "Налаштування url"
+
+#~ msgid ""
+#~ "Remove prefix from category url<br> default: /product-category/"
+#~ "accessories/action-figures/ - changed: /accessories/action-figures/"
+#~ msgstr ""
+#~ "Не відображати префікс в url категорії<br> за замовчуванням: /product-"
+#~ "category/accessories/action-figures/ - змінено: /accessories/action-"
+#~ "figures/"

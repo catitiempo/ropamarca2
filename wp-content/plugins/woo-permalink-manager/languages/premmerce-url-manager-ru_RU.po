@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Premmerce url manager\n"
+"POT-Creation-Date: 2018-02-02 18:28+0200\n"
+"PO-Revision-Date: 2018-02-02 18:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: build/src/Admin/Admin.php:80 build/src/Admin/Admin.php:81
+#: build/views/admin/main.php:2 src/Admin/Admin.php:80 src/Admin/Admin.php:81
+msgid "Permalink Manager"
+msgstr "Ссылки магазина"
+
+#: build/src/Admin/Admin.php:121 src/Admin/Admin.php:121
+msgid "Settings"
+msgstr "Настройки"
+
+#: build/src/Admin/Admin.php:124 src/Admin/Admin.php:124
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: build/src/Admin/Admin.php:126 src/Admin/Admin.php:126
+msgid "Account"
+msgstr "Аккаунт"
+
+#: build/src/UrlManagerPlugin.php:108 src/UrlManagerPlugin.php:108
+#, php-format
+msgid "The %s plugin requires %s plugin to be active!"
+msgstr "Для работы плагина %s нужен плагин %s"
+
+#: build/views/admin/tabs/settings.php:7 views/admin/tabs/settings.php:7
+msgid "Category"
+msgstr "Категория"
+
+#: build/views/admin/tabs/settings.php:14
+#: build/views/admin/tabs/settings.php:42 views/admin/tabs/settings.php:14
+#: views/admin/tabs/settings.php:42
+msgid "Remove base"
+msgstr "Не показывать префикс"
+
+#: build/views/admin/tabs/settings.php:17 views/admin/tabs/settings.php:17
+msgid ""
+"Remove prefix from category URL<br> default: /product-category/accessories/"
+"action-figures/ - changed: /accessories/action-figures/"
+msgstr ""
+"Не показывать префикс в URL категории<br> по умолчанию: /product-category/"
+"accessories/action-figures/ - изменено: /accessories/action-figures/"
+
+#: build/views/admin/tabs/settings.php:24 views/admin/tabs/settings.php:24
+msgid "Remove parent slugs"
+msgstr "Не показывать родительский URL"
+
+#: build/views/admin/tabs/settings.php:27 views/admin/tabs/settings.php:27
+msgid ""
+"Remove parent slugs from category URL<br> default: /product-category/"
+"accessories/action-figures/ - changed: /product-category/action-figures/"
+msgstr ""
+"Не показывать родительский URL в категории<br> по умолчанию: /product-"
+"category/accessories/action-figures/ - изменено: /product-category/action-"
+"figures/"
+
+#: build/views/admin/tabs/settings.php:34 views/admin/tabs/settings.php:34
+msgid "Product"
+msgstr "Товар"
+
+#: build/views/admin/tabs/settings.php:45 views/admin/tabs/settings.php:45
+msgid ""
+"Remove prefix from product URL<br> default: /shop/accessories/action-figures/"
+"acme/ - changed: /accessories/action-figures/acme/"
+msgstr ""
+"Не показывать префикс в URL товара<br> по умолчанию:/shop/accessories/action-"
+"figures/acme/ - изменено: /accessories/action-figures/acme/"
+
+#: views/admin/main.php:2
+msgid "Manage Permalinks"
+msgstr "Управление ссылками магазина"
+
+#~ msgid "WooCommerce Permalink Manager"
+#~ msgstr "Управление ссылками магазина"
+
+#~ msgid "This plugin requires %s plugin to be active!"
+#~ msgstr "Для этого плагина необходим плагин %s!"
+
+#~ msgid ""
+#~ "Remove prefix from product url<br> default: /shop/accessories/action-"
+#~ "figures/acme/ - changed: /accessories/action-figures/acme/"
+#~ msgstr ""
+#~ "Не показывать префикс в url товара<br> по умолчанию:/shop/accessories/"
+#~ "action-figures/acme/ - изменено: /accessories/action-figures/acme/"
+
+#~ msgid ""
+#~ "Remove parent slugs from category url<br> default: /product-category/"
+#~ "accessories/action-figures/ - changed: /product-category/action-figures/"
+#~ msgstr ""
+#~ "Не показывать родительский url в категории<br> по умолчанию: /product-"
+#~ "category/accessories/action-figures/ - изменено: /product-category/action-"
+#~ "figures/"
+
+#~ msgid "Url settings"
+#~ msgstr "Настройки url"
+
+#~ msgid ""
+#~ "Remove prefix from category url<br> default: /product-category/"
+#~ "accessories/action-figures/ - changed: /accessories/action-figures/"
+#~ msgstr ""
+#~ "Не показывать префикс в url категории<br> по умолчанию: /product-category/"
+#~ "accessories/action-figures/ - изменено: /accessories/action-figures/"
+
+#~ msgid "Remove category base"
+#~ msgstr "Не показивать "
