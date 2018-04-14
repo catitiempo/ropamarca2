@@ -1,3 +1,18 @@
+/*
+Theme Name:		Boutique cati
+Theme URI:		https://woocommerce.com/products/boutique/
+Description:	A Storefront child theme designed for small WooCommerce stores / boutiques. Boutique features a simple, traditional design which you can customise using the settings available in the WordPress Customizer. Looking for a theme for your new WooCommerce store? Look no further than Storefront and Boutique!
+Author:			WooCommerce
+Author URI:		http://woocommerce.com
+Template:		storefront
+Version:		2.0.13
+License: 		GNU General Public License v2 or later
+License URI: 	http://www.gnu.org/licenses/gpl-2.0.html
+Tags:			e-commerce, light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:	boutique
+*/
+/* =Boutique styles starts here
+-------------------------------------------------------------- */
 body {
   background: #303030;
   -webkit-font-smoothing: subpixel-antialiased; }
@@ -45,10 +60,6 @@ h6 {
 
 .no-wc-breadcrumb .site-header {
   margin-bottom: 0; }
-
-.site-branding {
-  margin: 0;
-  margin-right: 0 !important; }
 
 .site-branding .site-title {
   font-family: 'Playfair Display', serif; }
@@ -142,6 +153,10 @@ button.menu-toggle {
 
 .boutique-primary-navigation {
   -webkit-font-smoothing: antialiased; }
+  .boutique-primary-navigation::after {
+    clear: both;
+    content: "";
+    display: table; }
 
 .no-wc-breadcrumb .storefront-primary-navigation {
   padding-top: 2.618em; }
@@ -151,73 +166,8 @@ button.menu-toggle {
 .site-header-cart .widget_shopping_cart {
   background: #212121; }
 
-#menu-primary-menu > li :hover {
-  background-color: #fc4351;
-  border-left-color: #fc4351; }
-
 .storefront-primary-navigation {
-  background-color: transparent;
-  padding-top: 1em; }
-  .storefront-primary-navigation section nav {
-    width: 100% !important;
-    margin: 0 !important; }
-    .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu {
-      width: 100%;
-      display: table;
-      background-color: #487ebb;
-      color: white; }
-      .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu :first-child {
-        border: none; }
-    .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu > li {
-      text-align: center;
-      display: table-cell;
-      height: 50px;
-      line-height: 50px;
-      border-left-color: #5b90ce;
-      border-left-style: solid;
-      border-left-width: 1px;
-      color: white;
-      width: 20%; }
-      .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu > li a {
-        color: white;
-        font-weight: 500;
-        padding: 0 !important; }
-      .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu > li :after {
-        display: none !important; }
-      .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu > li .sub-menu {
-        width: 100%;
-        border: 2px solid #fc4351;
-        background-color: white !important;
-        padding: 5px 0; }
-        .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu > li .sub-menu li {
-          width: 100%;
-          display: block;
-          text-align: left;
-          height: 28px;
-          line-height: 28px;
-          font-weight: bold;
-          padding: 0 5px; }
-          .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu > li .sub-menu li a {
-            color: #487ebb;
-            width: 100%;
-            padding-left: 12px; }
-          .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu > li .sub-menu li:hover {
-            color: white !important;
-            background-color: #487ebb !important;
-            border-left-color: #487ebb !important; }
-            .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu > li .sub-menu li:hover a {
-              color: white !important; }
-      .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu > li.current-menu-item {
-        background-color: #5b90ce; }
-        .storefront-primary-navigation section nav .primary-navigation #menu-primary-menu > li.current-menu-item a :before {
-          display: none !important; }
-
-.secondary-navigation {
-  width: auto !important;
-  margin-right: 0;
-  height: 60px;
-  margin-bottom: 0;
-  line-height: 30px; }
+  background-color: transparent; }
 
 .posted-on,
 .byline {
@@ -272,17 +222,7 @@ button.menu-toggle {
   background-color: transparent !important; }
 
 .site-header-cart {
-  margin-bottom: 0 !important;
-  width: 150px !important;
-  height: 60px; }
-  .site-header-cart :first-child {
-    height: 60px; }
-    .site-header-cart :first-child a {
-      padding: 0;
-      padding-bottom: 0 !important;
-      line-height: 60px; }
-    .site-header-cart :first-child :after {
-      line-height: 60px; }
+  margin-bottom: 0; }
 
 ul.products li.product {
   overflow: visible; }
@@ -375,50 +315,19 @@ table.cart td.actions {
     margin-left: -5.874em;
     margin-right: -5.874em;
     padding: 0 5.874em;
+    border-top-left-radius: 0.327em;
+    border-top-right-radius: 0.327em;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), inset 0 -0.53em rgba(0, 0, 0, 0.05);
     background: #212121;
     clear: both; }
-  .site-search {
-    float: left !important;
-    width: 515px !important;
-    padding: 0 50px;
-    margin: auto 0;
-    height: 60px; }
-    .site-search .widget {
-      padding-top: 8px; }
-      .site-search .widget form {
-        border-bottom-left-radius: 2px;
-        border-bottom-right-radius: 0px;
-        border-bottom-style: solid;
-        border-bottom-width: 1px;
-        border-collapse: separate;
-        border-image-outset: 0px;
-        border-image-repeat: stretch;
-        border-image-slice: 100%;
-        border-image-source: none;
-        border-image-width: 1;
-        border-left-color: #c8cfd9;
-        border-left-style: solid;
-        border-left-width: 1px;
-        border-right-color: #c8cfd9;
-        border-right-style: solid;
-        border-right-width: 1px;
-        border-top-color: #c8cfd9;
-        border-top-left-radius: 2px;
-        border-top-right-radius: 0px;
-        border-top-style: solid;
-        border-top-width: 1px;
-        bottom: 0px;
-        box-shadow: rgba(0, 0, 0, 0.075) 0px 1px 1px 0px inset;
-        box-sizing: border-box;
-        border-bottom-color: #c8cfd9;
-        color: #555555; }
-        .site-search .widget form input {
-          background-color: white; }
-  .site-card {
-    float: left; }
+  .site-branding,
+  .site-search,
+  .site-header-cart,
+  .site-logo-anchor,
+  .custom-logo-link {
+    margin-bottom: 4.236em; }
   .site-header {
-    padding-top: 1em; }
+    padding-top: 4.236em; }
   .main-navigation ul.menu > li > a, .main-navigation ul.nav-menu > li > a,
   .site-header-cart .cart-contents {
     padding-bottom: 1.618em !important;
@@ -457,7 +366,13 @@ table.cart td.actions {
     margin-left: -5.874em;
     margin-right: -5.874em; }
   .page-template-template-homepage-php .content-area {
-    width: 100%; }
+    width: 100%;
+    float: left;
+    margin-right: 4.347826087%; }
+    .page-template-template-homepage-php .content-area .columns-3 ul.products li.product {
+      width: 29.4117647059%;
+      float: left;
+      margin-right: 5.8823529412%; }
   .page-template-template-homepage-php .boutique-featured-products .storefront-product-section {
     margin-left: -5.874em;
     margin-right: -5.874em;
@@ -545,6 +460,14 @@ table.cart td.actions {
   .page-template-template-homepage .boutique-featured-products .sprh-hero.full {
     margin-left: -5.874em;
     margin-right: -5.874em; }
+  .page-template-template-homepage.left-sidebar .content-area {
+    width: 100%;
+    float: right;
+    margin-right: 0; }
+  .page-template-template-homepage.left-sidebar .widget-area {
+    width: 21.7391304348%;
+    float: left;
+    margin-right: 4.347826087%; }
   .sph-hero .col-full,
   .sprh-hero .col-full {
     background-color: transparent;
