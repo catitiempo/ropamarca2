@@ -675,7 +675,7 @@ msgid "% Comments"
 msgstr ""
 
 #: inc/storefront-template-functions.php:559
-msgid "Shop by Category"
+msgid "Comprar por Categoría"
 msgstr ""
 
 #: inc/storefront-template-functions.php:609

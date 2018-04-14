@@ -1,5 +1,5 @@
 /*
-Theme Name:		Boutique
+Theme Name:		Boutique cati
 Theme URI:		https://woocommerce.com/products/boutique/
 Description:	A Storefront child theme designed for small WooCommerce stores / boutiques. Boutique features a simple, traditional design which you can customise using the settings available in the WordPress Customizer. Looking for a theme for your new WooCommerce store? Look no further than Storefront and Boutique!
 Author:			WooCommerce
@@ -366,7 +366,7 @@ table.cart td.actions {
     margin-right: -5.874em;
     margin-left: -5.874em; }
   .page-template-template-homepage-php .content-area {
-    width: 73.9130434783%;
+    width: 100%;
     float: right;
     margin-left: 4.347826087%; }
     .page-template-template-homepage-php .content-area .columns-3 ul.products li.product {
@@ -461,7 +461,7 @@ table.cart td.actions {
     margin-right: -5.874em;
     margin-left: -5.874em; }
   .page-template-template-homepage.left-sidebar .content-area {
-    width: 73.9130434783%;
+    width: 100%;
     float: left;
     margin-left: 0; }
   .page-template-template-homepage.left-sidebar .widget-area {
