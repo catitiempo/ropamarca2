@@ -32,6 +32,9 @@ class Boutique_Template {
 		add_filter( 'storefront_popular_products_args',      array( $this, 'product_columns_three' ),   99 );
 		add_filter( 'storefront_on_sale_products_args',      array( $this, 'product_columns_three' ),   99 );
 		add_filter( 'storefront_best_selling_products_args', array( $this, 'product_columns_three' ),   99 );
+
+
+		add_action( 'boutique_after_homepage_content', 'storefront_homepage_content', 					10 );
 	}
 
 	/**
