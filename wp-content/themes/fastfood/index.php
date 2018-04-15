@@ -9,7 +9,7 @@ get_header();
         <?php
         $args = array(
           'post_type' => 'fastfood_slider',
-          'posts_per_page' => 3
+          'posts_per_page' => 5
           );
         $loop = new WP_Query( $args );
 
@@ -52,22 +52,18 @@ get_header();
         endif;
         ?>
         
-        <div class="row mar-top-80">
-          <div class="col-md-6">
-            <h3>El restaurante <strong>fastfood</strong> <i class="fa fa-spoon pull-right hidden-xs-down" aria-hidden="true"></i></h3>
+        <div class="row mar-top-20">
+          <div class="col-md-12">
+            <h1>Ropa de marca</h1>
 
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend in mauris in suscipit. Aliquam mollis dolor vel nisl posuere, in venenatis nibh ultricies. Etiam condimentum vel nulla id volutpat. Etiam et egestas purus. Maecenas porttitor, erat quis lobortis feugiat, elit sapien tempus ante, nec egestas nisl tortor sit amet nunc.</p>
 
-            <p>Vestibulum leo ligula, malesuada et risus at, euismod iaculis quam. Cras ac velit fringilla, vestibulum dolor in, tempus massa. Sed sed euismod libero. Ut vitae suscipit tortor. Mauris augue est, convallis sed felis ac, auctor rhoncus lorem. Proin tincidunt justo ac vestibulum tincidunt.</p>
-
           </div>
-          <div class="col-md-6">
-            <h3>Dónde encontrar <strong>fastfood</strong> <i class="fa fa-map-marker pull-right hidden-xs-down" aria-hidden="true"></i></h3>
+          <div class="col-md-12">
+            <h2>Las mejores marcas de ropa españolas</h2>
+            <p>ropamarca.es cuenta con las mejores marcas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend in mauris in s</p>
 
-            <p>Estamos en la Calle de las lechugas, nº 24. Mallorca, España.</p>
-
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49208.66213840587!2d2.6457357819800222!3d39.56994739486192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12979259c61ac757%3A0xc40d5406c3d058c6!2sPalma+de+Mallorca%2C+Islas+Baleares!5e0!3m2!1ses!2ses!4v1480101923451" width="100%" height="205" frameborder="0" style="border:0" allowfullscreen></iframe>
-          </div>
+            </div>
 
         </div>
 
@@ -94,52 +90,11 @@ get_header();
         </div>
 
         <div class="row mar-top-80 sidebars-zone">
-          <div class="col-sm-4">
-            <h4>Visita <strong>fastfood</strong></h4>
-
-            <p>Estamos abiertos de martes a domingo de las 12h del mediodía hasta las 24h de la noche.</p>
-
-            <p>Podrás encontrarnos en la calle de las lechugas número 24, Mallorca, España.</p>
-
-            <p>Para reservas puedes consultar nuestro <strong>apartado de contacto</strong> o llamarnos al 612 345 678.</p>
-          </div>
-          <div class="col-sm-4">
-            <h4>Ofertas recomendadas</h4>
-
-            <ul class="list-unstyled">
-              <li>
-                <a href="#">Menú de fin de semana 2x1 en hamburguesas</a>
-              </li>
-              <li>
-                <a href="#">Cena para parejas los martes</a>
-              </li>
-              <li>
-                <a href="#">Menú "come hasta explotar"</a>
-              </li>
-              <li>
-                <a href="#">La mega hamburguesa</a>
-              </li>
-            </ul>
-
-          </div>
-          <div class="col-sm-4">
-            <h4>Síguenos en las redes sociales</h4>
-
-            <ul class="list-unstyled">
-              <li>
-                <a href="#">Facebook</a>
-              </li>
-              <li>
-                <a href="#">Twitter</a>
-              </li>
-              <li>
-                <a href="#">Youtube</a>
-              </li>
-              <li>
-                <a href="#">Instagram</a>
-              </li>
-            </ul>
-
+          <div class="col-sm-12">
+            <h3>Venta de ropa de marca online</h3>
+            Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum
+            <h3>Compra de ropa de marca barata</h3>
+            Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum
           </div>
         </div>
 

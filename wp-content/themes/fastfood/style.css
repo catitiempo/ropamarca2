@@ -120,13 +120,15 @@ header {
 }
 
 .carousel-caption {
-	background-color: rgba(41, 23, 1, 0.75);
+	background-color: rgba(5, 50, 86, 0.75);
 	height: 100%;
-	left: 0;
-	top: 0;
-	padding: 30px 45px;
+	left: 0 !important;
+	top: 0 !important;
+	right: 0 !important;
+	bottom: 0 !important;
+	padding: 14% 1em !important;
 	text-align: left;
-	width: 340px;
+	width: 25%;
 }
 
 	.carousel-caption p {
@@ -155,8 +157,9 @@ header {
 	.carousel-caption a {
 		border-radius: 0;
 		font-weight: bold;
-		color: #291701;
+		color: #053156;
 		border: none;
+		margin-top: 10px;
 	}
 
 /* Info content */
@@ -232,7 +235,9 @@ h1.entry-title {
 .mar-top-80 {
 	margin-top: 80px;
 }
-
+.mar-top-20 {
+	margin-top: 20px;
+}
 /* WordPress classes */
 .alignright {
 	float: right;
@@ -346,10 +351,9 @@ img {
 }
 
 .btn-warning {
-	background-color: #8dcaff;
-    border-color: #8dcaff;
+	background-color: #ea3d3d !important;
+    border-color: #ea3d3d !important;
 }
-
 
 
 /* Small devices (landscape phones, 576px and up)*/
