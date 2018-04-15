@@ -16,13 +16,14 @@ add_image_size( 'fastfood-thumbnail-avatar', 100, 100, true );
 register_nav_menus( array(
 	'top'    => __( 'Top Menu', 'fastfood' ),
 	'footer' => __( 'Footer Menu', 'fastfood' ),
+	'top_right'=> __( 'Top Right Menu', 'fastfood' ),
 ) );
 
 /*
  * Add classes to main menu
  */
 function fastfood_menu_classes($classes, $item, $args) {
-  if($args->theme_location == 'top' || $args->theme_location == 'footer') {
+  if($args->theme_location == 'top' || $args->theme_location == 'footer' || $args->theme_location == 'top_right') {
     $classes[] = 'list-inline-item';
   }
   return $classes;
@@ -187,8 +188,46 @@ function fastfood_comment( $comment, $args, $depth ) {
 	endswitch;
 }
 
+function get_brands( $display_as, $columns, $hide_empty ){
 
+	$brands = get_terms( 'pwb-brand',array( 'hide_empty' => $hide_empty ) );
 
+	if(is_array($brands) && count($brands)>0){
+		echo '<ul class="row marcas">';
+		foreach ($brands as $brand) {
+			$brand_name = $brand->name;
+			$brand_link = get_term_link( $brand->term_id );
+
+			$attachment_id = get_term_meta( $brand->term_id, 'pwb_brand_image', 1 );
+			$brand_logo = wp_get_attachment_image( $attachment_id, 'full' );
+
+			$li_class = ( $display_as == 'brand_logo' ) ? "col-sm-4" : "";
+			echo '<li class="'. $li_class .'">';
+			if( $display_as == 'brand_logo' && !empty( $brand_logo ) ){
+				echo '<a href="'.$brand_link.'" title="'.__( 'Go to', 'perfect-woocommerce-brands' ).' '.$brand->name.'">'.$brand_logo.'</a>';
+			}else{
+				echo '<a href="'.$brand_link.'" title="'.__( 'Go to', 'perfect-woocommerce-brands' ).' '.$brand->name.'">'.$brand->name.'</a>';
+			}
+			echo '</li>';
+		}
+		echo '</ul>';
+	}else{
+		echo __( 'There is not available brands', 'perfect-woocommerce-brands' );
+	}
+
+}
+
+function fastfood_is_woocommerce_activated() {
+	return class_exists( 'WooCommerce' ) ? true : false;
+}
+
+function fastfood_user_url(){
+	$myaccount_page_id = get_option( 'woocommerce_myaccount_page_id' );
+	if ( $myaccount_page_id ) {
+		return get_permalink( $myaccount_page_id );
+	}
+	return "#";
+}
 
 
 

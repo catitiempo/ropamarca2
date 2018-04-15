@@ -28,7 +28,7 @@ header {
 }
 
 .social-header {
-	margin-top: 12px;
+	margin-top: 5px;
 }
 
 	.social-header a {
@@ -106,7 +106,33 @@ header {
 				border-color: #fff transparent transparent transparent;
 			}
 
+.fs-60{
+	font-size: 48px !important;
+	color: #ea3d3d;
+}
 
+.count{
+	background-color: white;
+	border-radius: 22px;
+	/* padding: 5px; */
+	/* color: #fff; */
+	font-size: 12px;
+	margin-left: 6px;
+	/* min-width: 30px; */
+	/* display: none; */
+	text-align: center;
+	position: absolute;
+	top: -2px;
+	right: 0;
+	height: 22px;
+	width: 22px;
+	line-height: 22px;
+}
+.li-cart{
+	position: relative;
+	float: right;
+	margin-left: 10px;
+}
 /* Content */
 
 /* Main */
@@ -115,8 +141,10 @@ header {
 }
 
 /* Carousel */
-#slider-home {
-	margin-bottom: 50px;
+#fastfood-slider-home {
+	margin: 0 auto;
+	max-width: 1200px;
+	background-color: #8dcaff;
 }
 
 .carousel-caption {
@@ -130,6 +158,7 @@ header {
 	text-align: left;
 	width: 25%;
 }
+
 
 	.carousel-caption p {
 		font-size: 14px;
@@ -193,11 +222,15 @@ footer {
 		text-decoration: none;
 	}
 
-
+.copy{
+	line-height: 44px;
+}
 /* Footer sidebars */
 .sidebars-zone {
 	background-color: #e0e0e0;
 	padding-top: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
 }
 	.sidebars-zone h4 {
 		font-size: 20px;
@@ -355,10 +388,25 @@ img {
     border-color: #ea3d3d !important;
 }
 
+.marcas{
+	padding: 0 15px;
+}
+.marcas li {
+	display : block;
+	padding: 15px;
+	border: 1px solid #e0e0e0;
+	line-height: 79px;
+	text-align: center;
+}
 
 /* Small devices (landscape phones, 576px and up)*/
-@media (min-width: 576px) {
-
+@media (max-width: 576px) {
+	.carousel-caption{
+		width: 50%;
+	}
+	.carousel-indicators li{
+		top:25px !important;
+	}
 }
 
 /* Medium devices (tablets, 768px and up) */

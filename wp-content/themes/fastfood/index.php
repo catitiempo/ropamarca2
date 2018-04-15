@@ -48,6 +48,7 @@ get_header();
             ?>
             </div>
           </div>
+          <div class="container">
         <?php
         endif;
         ?>
@@ -62,30 +63,10 @@ get_header();
           <div class="col-md-12">
             <h2>Las mejores marcas de ropa españolas</h2>
             <p>ropamarca.es cuenta con las mejores marcas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend in mauris in s</p>
-
+            <?php
+            get_brands('brand_logo',5,false);
+            ?>
             </div>
-
-        </div>
-
-        <div class="row mar-top-80">
-
-          <div class="col-md-12">
-
-            <h3>El restaurante <strong>fastfood</strong> por dentro <i class="fa fa-camera pull-right hidden-xs-down" aria-hidden="true"></i></h3>
-
-            <div class="row">
-              <div class="col-sm-4">
-                <img src="<?php bloginfo('template_url'); ?>/img/gallery01.jpg" alt="Imagen 1" class="img-fluid">
-              </div>
-              <div class="col-sm-4">
-                <img src="<?php bloginfo('template_url'); ?>/img/gallery02.jpg" alt="Imagen 2" class="img-fluid">
-              </div>
-              <div class="col-sm-4">
-                <img src="<?php bloginfo('template_url'); ?>/img/gallery03.jpg" alt="Imagen 3" class="img-fluid">
-              </div>
-            </div>
-
-          </div>
 
         </div>
 

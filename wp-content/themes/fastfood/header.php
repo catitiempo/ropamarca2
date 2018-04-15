@@ -36,45 +36,31 @@
             }
             ?>
           </div>
+            <?php
+                if(fastfood_is_woocommerce_activated()){
+                    echo '
 
-          <div class="col-md-6">
+            <div class="col-sm-6 text-md-right">
+                <ul>
+                <li class="list-inline-item li-cart">
+                    <a href="'.esc_url( wc_get_cart_url() ) . '" title="Ver tu carrito">
+                        <i class="fa fa-shopping-cart fs-60" aria-hidden="true"></i>
+                        <span class="count">'. WC()->cart->get_cart_contents_count().'</span>
+                    </a>
+                </li>
+                    <li class="list-inline-item">
+                        <a href="'.esc_url(fastfood_user_url()).'">
+                            <i class="fa fa-user fs-60" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
 
-            <ul class="social-header list-inline text-center text-md-right">
-              <li class="list-inline-item">
-                <a href="#">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle fa-stack-2x"></i>
-                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                      </span>
-                  </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle fa-stack-2x"></i>
-                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                      </span>
-                  </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle fa-stack-2x"></i>
-                        <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
-                      </span>
-                  </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle fa-stack-2x"></i>
-                        <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
-                      </span>
-                  </a>
-              </li>
-            </ul>
+                    ';
+                }
+            ?>
 
-          </div>
+
         </div>
       </div>
 
@@ -99,4 +85,7 @@
     </header>
 
     <div id="main">
+        <?php
+        if (!is_home()) : ?>
       <div class="container">
+          <?php endif; ?>
