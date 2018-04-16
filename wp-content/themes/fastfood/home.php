@@ -14,6 +14,7 @@ get_header();
         $loop = new WP_Query( $args );
 
         if ($loop->have_posts()) : ?>
+            <div class="container-slider">
           <div id="fastfood-slider-home" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
               <?php
@@ -48,6 +49,7 @@ get_header();
             ?>
             </div>
           </div>
+            </div>
           <div class="container">
         <?php
         endif;

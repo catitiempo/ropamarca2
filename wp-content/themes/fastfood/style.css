@@ -25,6 +25,7 @@ a {
 header {
 	background-color: #053156;
 	padding-top: 25px;
+	border-bottom: 2px solid #053156;
 }
 
 .social-header {
@@ -140,6 +141,10 @@ header {
 	box-shadow: 0 7px 18px rgba(0, 0, 0, .5);
 }
 
+.container-slider{
+	background: linear-gradient(#8dcaff, #053156);
+}
+
 /* Carousel */
 #fastfood-slider-home {
 	margin: 0 auto;
@@ -211,6 +216,7 @@ footer {
 	background-color: #8dcaff;
 	font-size: 12px;
 	padding: 10px 0;
+	border-top: 2px solid #053156;
 }
 
 	footer ul {
