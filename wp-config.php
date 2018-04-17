@@ -73,6 +73,8 @@ define('WP_DEBUG', false);
 
 /* ¡Eso es todo, deja de editar! Feliz blogging */
 
+define('UPLOADS', 'img');
+
 /** WordPress absolute path to the Wordpress directory. */
 if ( !defined('ABSPATH') )
 	define('ABSPATH', dirname(__FILE__) . '/');

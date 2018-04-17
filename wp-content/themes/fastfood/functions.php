@@ -109,6 +109,8 @@ function load_fastfood_scripts() {
     wp_enqueue_script( 'fastfood-scripts', get_template_directory_uri() . '/js/general.js', array('jquery'), '1.0.0', true );
 }
 
+
+
 add_action( 'wp_enqueue_scripts', 'load_fastfood_scripts' );
 
 // Comments
@@ -189,9 +191,10 @@ function fastfood_comment( $comment, $args, $depth ) {
 function get_brands( $display_as, $columns, $hide_empty ){
 
 	$brands = get_terms( 'pwb-brand',array( 'hide_empty' => $hide_empty ) );
+    $cadena = '';
 
 	if(is_array($brands) && count($brands)>0){
-		echo '<ul class="row marcas">';
+		 $cadena.= '<ul class="row marcas">';
 		foreach ($brands as $brand) {
 			$brand_name = $brand->name;
 			$brand_link = get_term_link( $brand->term_id );
@@ -200,18 +203,19 @@ function get_brands( $display_as, $columns, $hide_empty ){
 			$brand_logo = wp_get_attachment_image( $attachment_id, 'full' );
 
 			$li_class = ( $display_as == 'brand_logo' ) ? "col-sm-4" : "";
-			echo '<li class="'. $li_class .'">';
+			 $cadena.= '<li class="'. $li_class .'">';
 			if( $display_as == 'brand_logo' && !empty( $brand_logo ) ){
-				echo '<a href="'.$brand_link.'" title="'.__( 'Go to', 'perfect-woocommerce-brands' ).' '.$brand->name.'">'.$brand_logo.'</a>';
+				 $cadena.= '<a href="'.$brand_link.'" title="Ir a '.$brand->name.'">'.$brand_logo.'</a>';
 			}else{
-				echo '<a href="'.$brand_link.'" title="'.__( 'Go to', 'perfect-woocommerce-brands' ).' '.$brand->name.'">'.$brand->name.'</a>';
+				 $cadena.= '<a href="'.$brand_link.'" title="Ir a '.$brand->name.'">'.$brand->name.'</a>';
 			}
-			echo '</li>';
+			 $cadena.= '</li>';
 		}
-		echo '</ul>';
+		 $cadena.= '</ul>';
 	}else{
-		echo __( 'There is not available brands', 'perfect-woocommerce-brands' );
+		 $cadena.= 'No hay marcas disponibles';
 	}
+    return $cadena;
 
 }
 
@@ -229,9 +233,67 @@ function fastfood_user_url(){
 
 
 
+// home elements
+// slider
 
+add_shortcode('home_slider','fasfood_home_slider');
+/**
+ * @return string
+ */
+function fasfood_home_slider(){
+    $args = array(
+        'post_type' => 'fastfood_slider',
+        'posts_per_page' => 5
+    );
+    $loop = new WP_Query( $args );
 
+    if ($loop->have_posts()) : ?>
+    <div class="container-slider">
+        <div id="fastfood-slider-home" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <?php
+                $l = $loop->post_count;
+                for ($i = 0; $i < $l; $i++) { ?>
+                    <li data-target="#fastfood-slider-home"
+                        data-slide-to="<?php echo $i; ?>"
+                        <?php if ($i == 0) { ?> class="active"<?php } ?>>
+                    </li>
+                    <?php
+                }
+                ?>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <?php
+                $n = 0;
+                while ( $loop->have_posts() ) : $loop->the_post(); ?>
+                    <div class="carousel-item <?php if($n == 0) { echo 'active'; } ?>">
 
+                        <?php echo get_the_post_thumbnail( $loop->ID, 'fastfood-featured-image' ); ?>
+
+                        <div class="carousel-caption">
+
+                            <?php the_content(); ?>
+
+                        </div>
+
+                    </div>
+                    <?php
+                    $n++;
+                endwhile;
+                ?>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <?php
+    endif;
+}
+
+add_shortcode('home_marcas','fastfood_home_marcas');
+
+function fastfood_home_marcas(){
+    return get_brands('brand_logo',5,false);
+}
 
 
 

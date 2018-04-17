@@ -2,13 +2,681 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1777d940-5586-4ea8-9980-894a1ab6096c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/fastfood/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/fastfood/search.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/fastfood/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/fastfood/home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accessories.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-1-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/beanie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-1-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/belt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-1-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cap.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-1-1024x413.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-1-300x121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-1-600x242.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-1-768x310.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-1024x413.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-1024x439.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-300x129.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-600x258.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-768x330.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-300x121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-600x242.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner-768x310.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/espagnolo_banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-1-1024x635.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-1-300x186.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-1-600x372.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-1-768x477.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-1024x635.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-2-1024x635.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-2-300x186.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-2-600x372.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-2-768x477.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-3-1024x635.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-3-300x186.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-3-600x372.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-3-768x477.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-300x186.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-600x372.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero-768x477.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-1-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-1-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-1-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hoodies.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lajaca_banner-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lajaca_banner-1024x439.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lajaca_banner-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lajaca_banner-300x129.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lajaca_banner-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lajaca_banner-600x258.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lajaca_banner-768x330.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lajaca_banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-100x78.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-150x78.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_lajaca-1-100x82.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_lajaca-1-150x82.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_lajaca-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_lajaca-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_lajaca-150x135.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_lajaca-300x123.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_lajaca-300x135.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_lajaca-324x135.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_lajaca.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_solera-1-100x41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_solera-1-150x41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_solera-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_solera-100x30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_solera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_spagnolo-1-100x21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_spagnolo-1-150x21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_spagnolo-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_spagnolo-100x42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_spagnolo-150x42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_spagnolo-300x31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_spagnolo-300x42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_spagnolo-324x42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_spagnolo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_tous-1-100x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_tous-1-150x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_tous-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_tous-100x59.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_tous-150x59.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_tous.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_valecuatro-1-100x35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_valecuatro-1-150x35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_valecuatro-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_valecuatro-100x74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_valecuatro-150x74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_valecuatro-300x53.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_valecuatro-300x74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_valecuatro-324x74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_valecuatro-416x73.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_valecuatro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/long-sleeve-tee.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temp_vale4-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temp_vale4-1024x485.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temp_vale4-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temp_vale4-300x142.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temp_vale4-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temp_vale4-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temp_vale4-416x197.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temp_vale4-600x284.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temp_vale4-768x363.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temp_vale4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-1024x439.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-300x129.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-600x258.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-768x330.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-1-1024x576.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-1-300x169.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-1-600x338.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-1-768x432.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-1024x576.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-300x169.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-416x234.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-600x338.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous-768x432.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nueva_temporada_tous.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-1-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-1-600x599.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-1-768x767.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-2-600x599.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-2-768x767.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-3-600x599.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-3-768x767.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-600x599.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo-768x767.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/polo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pv-18-1-02-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pv-18-1-02-1024x413.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pv-18-1-02-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pv-18-1-02-300x121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pv-18-1-02-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pv-18-1-02-600x242.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pv-18-1-02-768x310.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pv-18-1-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-1-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sunglasses.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-1-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-1-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-1-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-2-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-2-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-3-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-3-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts-768x768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tshirts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-1-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-1-600x599.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-1-768x767.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-2-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-2-600x599.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-2-768x767.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-3-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-3-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-3-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-3-600x599.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-3-768x767.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-324x324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-600x599.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee-768x767.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vneck-tee.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/fastfood/home.php" afterPath="$PROJECT_DIR$/wp-content/themes/fastfood/home_prev.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/accessories-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/accessories-3-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/accessories-3-600x600.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/accessories-3-600x600.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/accessories-3-768x768.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/accessories-3-768x768.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/accessories-3.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/accessories-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-100x100.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-100x100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-1024x413.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-1024x413.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-300x121.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-300x121.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-600x242.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-600x242.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-768x310.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1-768x310.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-100x100.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-100x100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1024x413.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-1024x413.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-100x100.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-100x100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-1024x439.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-1024x439.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-300x129.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-300x129.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-600x258.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-600x258.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-768x330.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-2-768x330.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-300x121.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-300x121.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-600x242.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-600x242.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-768x310.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/espagnolo_banner-768x310.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/hero-3-1024x635.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/hero-3-1024x635.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/hero-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/hero-3-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/hero-3-600x372.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/hero-3-600x372.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/hero-3-768x477.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/hero-3-768x477.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/hoodies-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/hoodies-3-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/hoodies-3-600x600.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/hoodies-3-600x600.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/hoodies-3-768x768.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/hoodies-3-768x768.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/hoodies-3.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/hoodies-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-100x100.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-100x100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-1024x439.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-1024x439.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-300x129.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-300x129.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-600x258.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-600x258.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-768x330.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/lajaca_banner-768x330.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca-1-100x82.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca-1-100x82.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca-1-150x82.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca-1-150x82.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca-1.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca-300x123.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca-300x123.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca-300x135.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca-300x135.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_lajaca.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_solera-1-100x41.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_solera-1-100x41.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_solera-1-150x41.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_solera-1-150x41.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_solera-1.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_solera-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_solera-100x30.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_solera-100x30.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_solera.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_solera.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-1-100x21.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-1-100x21.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-1-150x21.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-1-150x21.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-1.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-100x42.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-100x42.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-150x42.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-150x42.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-300x31.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-300x31.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-300x42.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo-300x42.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_spagnolo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous-1-100x50.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous-1-100x50.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous-1-150x50.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous-1-150x50.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous-1.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous-100x59.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous-100x59.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous-150x59.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous-150x59.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_tous.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_valecuatro-1.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_valecuatro-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_valecuatro.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/logo_valecuatro.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-100x100.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-100x100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-1024x485.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-1024x485.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-300x142.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-300x142.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-600x284.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-600x284.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-768x363.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temp_vale4-768x363.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-100x100.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-100x100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-1024x439.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-1024x439.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-300x129.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-300x129.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-600x258.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-600x258.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-768x330.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada-vale4-768x330.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-100x100.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-100x100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-1024x576.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-1024x576.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-300x169.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-300x169.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-600x338.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-600x338.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-768x432.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1-768x432.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-100x100.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-100x100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1024x576.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-1024x576.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-300x169.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-300x169.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-600x338.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-600x338.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-768x432.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/nueva_temporada_tous-768x432.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-100x100.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-100x100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-1024x413.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-1024x413.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-300x121.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-300x121.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-600x242.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-600x242.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-768x310.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/pv-18-1-02-768x310.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/tshirts-3-600x600.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/tshirts-3-600x600.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/tshirts-3-768x768.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/tshirts-3-768x768.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/04/tshirts-3.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/04/tshirts-3.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fastfood/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/fastfood/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fastfood/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/fastfood/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fastfood/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/fastfood/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/jetpack-es_ES.mo" afterPath="$PROJECT_DIR$/wp-content/languages/plugins/jetpack-es_ES.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/jetpack-es_ES.po" afterPath="$PROJECT_DIR$/wp-content/languages/plugins/jetpack-es_ES.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fastfood/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/fastfood/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/storefront/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
     </list>
     <ignored path="ropamarca.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,110 +698,127 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/home.php">
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/page.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-4.375">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-              <folding>
-                <element signature="e#1573#2006#0#HTML" expanded="false" />
-                <element signature="e#2017#2342#0#HTML" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/404.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="search.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/search.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.065789476">
-              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            <state vertical-scroll-proportion="-10.625">
+              <caret line="21" column="55" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.7916665">
+              <caret line="60" column="3" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding>
-                <element signature="e#6#92#0#PHP" expanded="true" />
+                <element signature="e#793#3039#0#HTML" expanded="false" />
+                <element signature="e#808#2251#0#HTML" expanded="false" />
+                <marker date="1523990311238" expanded="true" signature="1479:2163" placeholder="..." />
+                <marker date="1523990311238" expanded="true" signature="1500:2144" placeholder="..." />
+                <marker date="1523990311238" expanded="true" signature="1554:1869" placeholder="..." />
+                <marker date="1523990311238" expanded="true" signature="1643:1847" placeholder="..." />
+                <marker date="1523990311238" expanded="true" signature="1919:2122" placeholder="..." />
+                <marker date="1523990311238" expanded="true" signature="1987:2096" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content.php">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29654035">
+              <caret line="105" column="21" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="21" />
+              <folding>
+                <element signature="e#8143#8227#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.wp-scripts.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-scripts.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-9.375">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="36" />
+              <caret line="263" column="9" selection-start-line="263" selection-start-column="9" selection-end-line="263" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="storefront-template-hooks.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-hooks.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.583333">
-              <caret line="72" column="70" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="storefront-template-functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-32.0">
-              <caret line="379" column="13" selection-start-line="379" selection-start-column="13" selection-end-line="379" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post-formats.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/post-formats.php">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-6.875">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loop.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/loop.php">
+      <file leaf-file-name="general-template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.75">
-              <caret line="21" column="9" selection-start-line="12" selection-start-column="0" selection-end-line="21" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="query.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.125">
-              <caret line="764" column="9" selection-start-line="764" selection-start-column="9" selection-end-line="764" selection-end-column="9" />
+            <state vertical-scroll-proportion="-12.5">
+              <caret line="2613" column="23" selection-start-line="2613" selection-start-column="16" selection-end-line="2613" selection-end-column="23" />
               <folding>
-                <marker date="1516770760000" expanded="true" signature="22839:22976" placeholder="SELECT post_..." />
-                <marker date="1516770760000" expanded="true" signature="24482:24629" placeholder="SELECT post_..." />
-                <marker date="1516770760000" expanded="true" signature="24808:25066" placeholder="SELECT ID FR..." />
+                <marker date="1522764340000" expanded="true" signature="28736:28749" placeholder="..." />
+                <marker date="1522764340000" expanded="true" signature="56350:56532" placeholder="SELECT YEAR(..." />
+                <marker date="1522764340000" expanded="true" signature="57424:57559" placeholder="SELECT YEAR(..." />
+                <marker date="1522764340000" expanded="true" signature="58324:58568" placeholder="SELECT YEAR(..." />
+                <marker date="1522764340000" expanded="true" signature="59539:59777" placeholder="SELECT DISTI..." />
+                <marker date="1522764340000" expanded="true" signature="61181:61239" placeholder="SELECT * FRO..." />
+                <marker date="1522764340000" expanded="true" signature="63544:63639" placeholder="SELECT 1 as ..." />
+                <marker date="1522764340000" expanded="true" signature="64877:65091" placeholder="SELECT MONTH..." />
+                <marker date="1522764340000" expanded="true" signature="65120:65351" placeholder="SELECT MONTH..." />
+                <marker date="1522764340000" expanded="true" signature="65527:65668" placeholder="..." />
+                <marker date="1522764340000" expanded="true" signature="65662:65668" placeholder="..." />
+                <marker date="1522764340000" expanded="true" signature="66113:66119" placeholder="..." />
+                <marker date="1522764340000" expanded="true" signature="66922:66928" placeholder="..." />
+                <marker date="1522764340000" expanded="true" signature="67021:67256" placeholder="SELECT DISTI..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="archive.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/archive.php">
+      <file leaf-file-name="class-frontend.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-frontend.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="5.6666665">
+              <caret line="666" column="41" selection-start-line="666" selection-start-column="41" selection-end-line="666" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robots.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -169,13 +854,18 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/archive-product.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fastfood/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fastfood/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fastfood/js/general.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fastfood/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fastfood/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fastfood/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/fastfood/404.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fastfood/search.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fastfood/home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/storefront/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fastfood/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fastfood/header.php" />
+        <option value="$PROJECT_DIR$/robots.txt" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fastfood/functions.php" />
       </list>
     </option>
   </component>
@@ -286,7 +976,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="storefront-child" />
+              <option name="myItemId" value="fastfood" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -308,30 +998,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="storefront" />
+              <option name="myItemId" value="fastfood" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/storefront-child/style-rtl.css" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/wp-content/themes/storefront-child/style-rtl.css" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/wp-content/themes/fastfood" />
       <recent name="$PROJECT_DIR$/wp-content/themes/fastfood/woocommerce" />
       <recent name="$PROJECT_DIR$/wp-content/themes/fastfood/js" />
       <recent name="$PROJECT_DIR$/wp-content/themes/fastfood/img" />
-      <recent name="$PROJECT_DIR$/wp-content/themes/storefront-child" />
     </key>
   </component>
   <component name="RunManager">
@@ -390,11 +1085,11 @@
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329927" sideWeight="0.49030694" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329927" sideWeight="0.49676898" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.55312955" sideWeight="0.47738287" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5523521" sideWeight="0.47738287" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2746365" sideWeight="0.49118942" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28271407" sideWeight="0.49118942" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26655897" sideWeight="0.5088106" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33915576" sideWeight="0.5226171" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -424,63 +1119,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/js/jquery-3.0.0.slim.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="4609" selection-start-line="3" selection-start-column="4609" selection-end-line="3" selection-end-column="4609" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product_cat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0588236">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.614481">
-          <caret line="955" column="31" selection-start-line="955" selection-start-column="31" selection-end-line="955" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/loop/result-count.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20547946">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/archive-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1960783">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3529413">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/img/gallery01.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -500,13 +1138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="6.8333335">
           <caret line="0" column="3" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-child/template-homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -584,7 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="117" column="9" selection-start-line="90" selection-start-column="8" selection-end-line="117" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +1222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,9 +1229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="39" column="52" selection-start-line="38" selection-start-column="24" selection-end-line="39" selection-end-column="52" />
-          <folding>
-            <element signature="e#464#636#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -610,23 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25984251">
           <caret line="24" column="16" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.875">
-          <caret line="2613" column="27" selection-start-line="2613" selection-start-column="27" selection-end-line="2613" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3647059">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,7 +1243,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="85.625">
           <caret line="1429" column="9" selection-start-line="1429" selection-start-column="9" selection-end-line="1429" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +1250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="9.686275">
           <caret line="212" column="26" selection-start-line="212" selection-start-column="19" selection-end-line="212" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -650,15 +1257,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="104" column="17" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -666,26 +1264,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-59.72222">
           <caret line="215" column="29" selection-start-line="215" selection-start-column="29" selection-end-line="215" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.375">
+          <caret line="285" column="1" selection-start-line="238" selection-start-column="0" selection-end-line="285" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="764" column="9" selection-start-line="764" selection-start-column="9" selection-end-line="764" selection-end-column="9" />
+          <folding>
+            <marker date="1516770760000" expanded="true" signature="-1:-1" placeholder="SELECT post_..." />
+            <marker date="1516770760000" expanded="true" signature="-1:-1" placeholder="SELECT post_..." />
+            <marker date="1516770760000" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/loop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="9" selection-start-line="12" selection-start-column="0" selection-end-line="21" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-includes/post-formats.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <marker date="1523897428381" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523897428381" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523897428381" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523897428381" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523897428381" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523897428381" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523897428381" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523897428381" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523897428381" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523897428381" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="379" column="13" selection-start-line="379" selection-start-column="13" selection-end-line="379" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-hooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="70" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -697,115 +1354,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php">
+    <entry file="file://$PROJECT_DIR$/wp-includes/post-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.375">
-          <caret line="285" column="1" selection-start-line="238" selection-start-column="0" selection-end-line="285" selection-end-column="1" />
+        <state vertical-scroll-proportion="-8.416667">
+          <caret line="229" column="9" selection-start-line="229" selection-start-column="9" selection-end-line="229" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/404.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-child/template-homepage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
-          <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/archive.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.125">
-          <caret line="764" column="9" selection-start-line="764" selection-start-column="9" selection-end-line="764" selection-end-column="9" />
-          <folding>
-            <marker date="1516770760000" expanded="true" signature="22839:22976" placeholder="SELECT post_..." />
-            <marker date="1516770760000" expanded="true" signature="24482:24629" placeholder="SELECT post_..." />
-            <marker date="1516770760000" expanded="true" signature="24808:25066" placeholder="SELECT ID FR..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="e#1573#2006#0#HTML" expanded="false" />
-            <element signature="e#2017#2342#0#HTML" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/loop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75">
-          <caret line="21" column="9" selection-start-line="12" selection-start-column="0" selection-end-line="21" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/post-formats.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-32.0">
-          <caret line="379" column="13" selection-start-line="379" selection-start-column="13" selection-end-line="379" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-hooks.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.583333">
-          <caret line="72" column="70" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.37067544">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -818,12 +1378,148 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/template-homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/home_prev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.291666">
+          <caret line="37" column="0" selection-start-line="12" selection-start-column="8" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="2613" column="23" selection-start-line="2613" selection-start-column="16" selection-end-line="2613" selection-end-column="23" />
+          <folding>
+            <marker date="1522764340000" expanded="true" signature="28736:28749" placeholder="..." />
+            <marker date="1522764340000" expanded="true" signature="56350:56532" placeholder="SELECT YEAR(..." />
+            <marker date="1522764340000" expanded="true" signature="57424:57559" placeholder="SELECT YEAR(..." />
+            <marker date="1522764340000" expanded="true" signature="58324:58568" placeholder="SELECT YEAR(..." />
+            <marker date="1522764340000" expanded="true" signature="59539:59777" placeholder="SELECT DISTI..." />
+            <marker date="1522764340000" expanded="true" signature="61181:61239" placeholder="SELECT * FRO..." />
+            <marker date="1522764340000" expanded="true" signature="63544:63639" placeholder="SELECT 1 as ..." />
+            <marker date="1522764340000" expanded="true" signature="64877:65091" placeholder="SELECT MONTH..." />
+            <marker date="1522764340000" expanded="true" signature="65120:65351" placeholder="SELECT MONTH..." />
+            <marker date="1522764340000" expanded="true" signature="65527:65668" placeholder="..." />
+            <marker date="1522764340000" expanded="true" signature="65662:65668" placeholder="..." />
+            <marker date="1522764340000" expanded="true" signature="66113:66119" placeholder="..." />
+            <marker date="1522764340000" expanded="true" signature="66922:66928" placeholder="..." />
+            <marker date="1522764340000" expanded="true" signature="67021:67256" placeholder="SELECT DISTI..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-frontend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.6666665">
+          <caret line="666" column="41" selection-start-line="666" selection-start-column="41" selection-end-line="666" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.065789476">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        <state vertical-scroll-proportion="-10.625">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="263" column="9" selection-start-line="263" selection-start-column="9" selection-end-line="263" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7916665">
+          <caret line="60" column="3" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
-            <element signature="e#6#92#0#PHP" expanded="true" />
+            <element signature="e#793#3039#0#HTML" expanded="false" />
+            <element signature="e#808#2251#0#HTML" expanded="false" />
+            <marker date="1523990311238" expanded="true" signature="1479:2163" placeholder="..." />
+            <marker date="1523990311238" expanded="true" signature="1500:2144" placeholder="..." />
+            <marker date="1523990311238" expanded="true" signature="1554:1869" placeholder="..." />
+            <marker date="1523990311238" expanded="true" signature="1643:1847" placeholder="..." />
+            <marker date="1523990311238" expanded="true" signature="1919:2122" placeholder="..." />
+            <marker date="1523990311238" expanded="true" signature="1987:2096" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29654035">
+          <caret line="105" column="21" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="21" />
+          <folding>
+            <element signature="e#8143#8227#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
