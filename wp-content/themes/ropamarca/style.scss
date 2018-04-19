@@ -1,0 +1,431 @@
+/*
+Theme Name: Ropamarca
+Author: Cati Pelegrín
+Author URI: https://www.ropamarca.es/
+Description: Plantilla para la tienda online ropamarca
+Version: 1.0
+Text Domain: ropamarca
+*/
+/* General */
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #291701;
+  overflow-x: hidden;
+}
+
+a {
+  color: #291701;
+  font-weight: bold;
+}
+
+
+/* Header */
+header {
+  background-color: #053156;
+  padding-top: 25px;
+  border-bottom: 2px solid #053156;
+}
+
+.social-header {
+  margin-top: 5px;
+}
+
+.social-header a {
+  color: #fff;
+}
+
+.social-header a .fa-inverse {
+  color: #053156;
+}
+
+/* Menus */
+.menu-bar {
+  background-color: #8dcaff;
+  margin-top: 20px;
+}
+.menu-bar a {
+  color: #053156;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.menu-bar a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.menu-list {
+
+  line-height: 48px;
+  margin-bottom: 0;
+}
+.menu-list > li:not(:last-child) {
+  margin-right: 40px;
+}
+
+/* Sub menus */
+.menu-item-has-children {
+  position: relative;
+}
+.menu-item-has-children .sub-menu {
+  display: none;
+  line-height: 14px;
+  position: absolute;
+  z-index: 10;
+  padding: 10px 0;
+  min-width: 120px;
+  text-align: left;
+  background-color: #8dcaff;
+  box-shadow: 0 3px 3px rgba(0,0,0,.5);
+  left: -8px;
+  border: 2px solid #ea3d3d;
+}
+
+.menu-item-has-children .sub-menu li {
+  padding: 5px 10px;
+}
+
+.menu-item-has-children:hover .sub-menu {
+  display: block;
+}
+
+.menu-item-has-children > a::after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 5px 5px 0 5px;
+  border-color: #000000 transparent transparent transparent;
+  position: relative;
+  top: 13px;
+  margin-left: 9px;
+}
+
+.menu-item-has-children > a:hover::after {
+  border-color: #fff transparent transparent transparent;
+}
+
+.fs-60{
+  font-size: 48px !important;
+  color: #ea3d3d;
+}
+
+.count{
+  background-color: white;
+  border-radius: 22px;
+  /* padding: 5px; */
+  /* color: #fff; */
+  font-size: 12px;
+  margin-left: 6px;
+  /* min-width: 30px; */
+  /* display: none; */
+  text-align: center;
+  position: absolute;
+  top: -2px;
+  right: 0;
+  height: 22px;
+  width: 22px;
+  line-height: 22px;
+}
+.li-cart{
+  position: relative;
+  float: right;
+  margin-left: 10px;
+}
+/* Content */
+
+/* Main */
+#main > .container {
+  box-shadow: 0 7px 18px rgba(0, 0, 0, .5);
+}
+
+.container-slider{
+  background: linear-gradient(#8dcaff, #053156);
+}
+
+/* Carousel */
+#ropamarca-slider-home {
+  margin: 0 auto;
+  max-width: 1200px;
+  background-color: #8dcaff;
+}
+
+.carousel-caption {
+  background-color: rgba(5, 50, 86, 0.75);
+  height: 100%;
+  left: 0 !important;
+  top: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  padding: 14% 1em !important;
+  text-align: left;
+  width: 25%;
+}
+
+
+.carousel-caption p {
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.carousel-caption h2 {
+  font-size: 26px;
+  line-height: 30px;
+}
+
+.carousel-caption .h4 {
+  font-size: 20px;
+  margin-bottom: 30px;
+  margin-top: 8px;
+}
+
+.carousel-caption img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.carousel-caption a {
+  border-radius: 0;
+  font-weight: bold;
+  color: #053156;
+  border: none;
+  margin-top: 10px;
+}
+
+/* Info content */
+h3 {
+  font-size: 24px;
+  border-bottom: 1px solid #9e9e9e;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+h3 i {
+  color: #929292;
+}
+
+p {
+  font-size: 16px;
+}
+
+/* Footer */
+footer {
+  background-color: #8dcaff;
+  font-size: 12px;
+  padding: 10px 0;
+  border-top: 2px solid #053156;
+}
+
+footer ul {
+  margin-bottom: 0;
+}
+
+footer a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.copy{
+  line-height: 44px;
+}
+/* Footer sidebars */
+.sidebars-zone {
+  background-color: #e0e0e0;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+.sidebars-zone h4 {
+  font-size: 20px;
+  border-bottom: 1px solid #9e9e9e;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+.sidebars-zone a {
+  margin-bottom: 18px;
+  display: block;
+}
+
+.sidebars-zone a:hover {
+  color: #000;
+}
+
+/* PAGES */
+h1.entry-title {
+  margin: 30px 0;
+}
+
+.entry-content {
+  margin-bottom: 80px;
+}
+
+.entry-content h2,
+.entry-content h3,
+.entry-content h4 {
+  margin: 40px 0 20px;
+}
+
+
+/* Helpers */
+.mar-top-80 {
+  margin-top: 80px;
+}
+.mar-top-20 {
+  margin-top: 20px;
+}
+/* WordPress classes */
+.alignright {
+  float: right;
+  margin: 20px 0 20px 20px;
+}
+
+.alignleft {
+  float: right;
+  margin: 20px 20px 20px 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* All pages */
+.page-content{
+  height: 100px;
+  transition: height 1s;
+}
+
+/* Archive pages */
+.archive h1 {
+  background-color: #ffde81;
+  margin: 0 -15px;
+  padding: 35px;
+  font-weight: normal;
+}
+
+.archive article {
+  margin-top: 20px;
+}
+
+.archive #main a {
+  color: #053156;
+}
+
+.archive #main a:hover,
+.archive #main a:active,
+.archive #main a:focus {
+  text-decoration: none;
+  color: #8dcaff;
+}
+
+.archive .entry-content {
+  margin-bottom: 20px;
+}
+
+
+/* Bootstrap */
+.page-item.active .page-link,
+.page-item.active .page-link:focus,
+.page-item.active .page-link:hover {
+  background-color: #053156;
+  color: #fff !important;
+  border-color: #053156;
+}
+
+/* Sidebars & Widgets */
+.widget {
+  margin-top: 35px;
+  margin-bottom: 20px;
+}
+
+.widget h2 {
+  margin-bottom: 10px;
+  color: white;
+  border-bottom: 5px solid #8dcaff;
+  padding: 5px 9px 6px;
+  background-color: #053156;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.widget ul {
+  padding: 0;
+  list-style: none;
+}
+
+/* Posts */
+.post-thumbnail {
+  margin-top: 35px;
+}
+
+/* Comments */
+#comments .avatar {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+#comments .comment-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#comments .comment-list li {
+  margin-bottom: 30px;
+}
+
+#comments h2.comments-title {
+  margin-bottom: 30px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #ccc;
+}
+
+.comment-respond {
+  margin-bottom: 100px;
+}
+
+.btn-warning {
+  background-color: #ea3d3d !important;
+  border-color: #ea3d3d !important;
+}
+
+.marcas{
+  padding: 0 15px;
+}
+.marcas li {
+  display : block;
+  padding: 15px;
+  border: 1px solid #e0e0e0;
+  line-height: 79px;
+  text-align: center;
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) {
+  .carousel-caption{
+    width: 50%;
+  }
+  .carousel-indicators li{
+    top:25px !important;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+}
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/*  Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+

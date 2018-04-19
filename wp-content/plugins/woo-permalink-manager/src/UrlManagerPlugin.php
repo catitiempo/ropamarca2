@@ -1,9 +1,10 @@
 <?php namespace Premmerce\UrlManager;
 
+use Premmerce\SDK\V1\FileManager\FileManager;
+use Premmerce\SDK\V1\Notifications\AdminNotifier;
 use Premmerce\UrlManager\Admin\Admin;
+use Premmerce\UrlManager\Admin\Settings;
 use Premmerce\UrlManager\Frontend\Frontend;
-use Premmerce\UrlManager\WordpressSDK\FileManager\FileManager;
-use Premmerce\UrlManager\WordpressSDK\Notifications\AdminNotifier;
 
 /**
  * Class UrlManagerPlugin
@@ -12,17 +13,7 @@ use Premmerce\UrlManager\WordpressSDK\Notifications\AdminNotifier;
  */
 class UrlManagerPlugin{
 
-	const WOOCOMMERCE_PRODUCT = 'product';
-
-	const WOOCOMMERCE_CATEGORY = 'product_cat';
-
 	const DOMAIN = 'premmerce-url-manager';
-
-	const OPTION_URL = 'premmerce_url_manager_options';
-
-	const OPTION_DISABLED = 'premmerce_url_manager_disabled';
-
-	const OPTION_FLUSH = 'premmerce_url_manager_flush_rules';
 
 	/**
 	 * @var FileManager
@@ -43,6 +34,7 @@ class UrlManagerPlugin{
 		$this->fileManager = new FileManager($mainFile);
 		$this->notifier    = new AdminNotifier();
 
+
 		add_action('init', [$this, 'loadTextDomain']);
 
 		add_action('admin_init', [$this, 'checkRequirePlugins']);
@@ -53,6 +45,7 @@ class UrlManagerPlugin{
 	 */
 	public function run(){
 		$valid = count($this->validateRequiredPlugins()) === 0;
+		(new Updater())->update();
 
 		if(is_admin()){
 			new Admin($this->fileManager);
@@ -71,7 +64,6 @@ class UrlManagerPlugin{
 	 * Fired when the plugin is activated
 	 */
 	public function activate(){
-		delete_option(self::OPTION_DISABLED);
 		flush_rewrite_rules();
 	}
 
@@ -79,7 +71,6 @@ class UrlManagerPlugin{
 	 * Fired when the plugin is deactivated
 	 */
 	public function deactivate(){
-		update_option(self::OPTION_DISABLED, true);
 		flush_rewrite_rules();
 	}
 
@@ -87,9 +78,10 @@ class UrlManagerPlugin{
 	 * Fired during plugin uninstall
 	 */
 	public static function uninstall(){
-		delete_option(self::OPTION_URL);
-		delete_option(self::OPTION_FLUSH);
-		delete_option(self::OPTION_DISABLED);
+		delete_option(Updater::DB_OPTION);
+		delete_option(Settings::OPTION_FLUSH);
+		delete_option(Settings::OPTION_DISABLED);
+		delete_option(Settings::OPTIONS);
 		flush_rewrite_rules();
 	}
 
@@ -98,14 +90,14 @@ class UrlManagerPlugin{
 	 */
 	public function loadTextDomain(){
 		$name = $this->fileManager->getPluginName();
-		load_plugin_textdomain(self::DOMAIN, false, $name . '/languages/');
+		load_plugin_textdomain('premmerce-url-manager', false, $name . '/languages/');
 	}
 
 	/**
 	 * Check required plugins and push notifications
 	 */
 	public function checkRequirePlugins(){
-		$message = __('The %s plugin requires %s plugin to be active!', 'woo-seo-addon');
+		$message = __('The %s plugin requires %s plugin to be active!', 'premmerce-url-manager');
 
 		$plugins = $this->validateRequiredPlugins();
 

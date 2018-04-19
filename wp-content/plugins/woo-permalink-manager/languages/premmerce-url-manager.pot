@@ -1,7 +1,8 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Woo Permalink Manager\n"
-"POT-Creation-Date: 2017-10-30 16:38+0200\n"
+"POT-Creation-Date: 2018-04-05 20:29+0300\n"
 "PO-Revision-Date: 2017-10-30 16:38+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,41 +17,123 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: src/UrlManagerPlugin.php:63
-#, php-format
-msgid "This plugin requires %s plugin to be active!"
+#: build/src/Admin/Admin.php:80 build/src/Admin/Admin.php:81
+#: src/Admin/Admin.php:82 src/Admin/Admin.php:83
+msgid "Permalink Manager"
 msgstr ""
 
-#: views/admin/options.php:11
+#: build/src/Admin/Admin.php:121 src/Admin/Admin.php:123
+msgid "Settings"
+msgstr ""
+
+#: build/src/Admin/Admin.php:124 src/Admin/Admin.php:126
+msgid "Contact Us"
+msgstr ""
+
+#: build/src/Admin/Admin.php:126 src/Admin/Admin.php:128
+msgid "Account"
+msgstr ""
+
+#: build/src/UrlManagerPlugin.php:108 src/UrlManagerPlugin.php:103
+#, php-format
+msgid "The %s plugin requires %s plugin to be active!"
+msgstr ""
+
+#: build/views/admin/main.php:2 views/admin/main.php:2
+msgid "Manage Permalinks"
+msgstr ""
+
+#: build/views/admin/tabs/settings.php:7
 msgid "Category"
 msgstr ""
 
-#: views/admin/options.php:20 views/admin/options.php:48
+#: build/views/admin/tabs/settings.php:14
+#: build/views/admin/tabs/settings.php:42
 msgid "Remove base"
 msgstr ""
 
-#: views/admin/options.php:23
+#: build/views/admin/tabs/settings.php:17
 msgid ""
 "Remove prefix from category URL<br> default: /product-category/accessories/"
 "action-figures/ - changed: /accessories/action-figures/"
 msgstr ""
 
-#: views/admin/options.php:30
+#: build/views/admin/tabs/settings.php:24
 msgid "Remove parent slugs"
 msgstr ""
 
-#: views/admin/options.php:33
+#: build/views/admin/tabs/settings.php:27
 msgid ""
 "Remove parent slugs from category URL<br> default: /product-category/"
 "accessories/action-figures/ - changed: /product-category/action-figures/"
 msgstr ""
 
-#: views/admin/options.php:40
+#: build/views/admin/tabs/settings.php:34
 msgid "Product"
 msgstr ""
 
-#: views/admin/options.php:51
+#: build/views/admin/tabs/settings.php:45
 msgid ""
 "Remove prefix from product URL<br> default: /shop/accessories/action-figures/"
 "acme/ - changed: /accessories/action-figures/acme/"
+msgstr ""
+
+#: src/Admin/Settings.php:37
+msgid "Categories"
+msgstr ""
+
+#: src/Admin/Settings.php:41
+msgid "Products"
+msgstr ""
+
+#: src/Admin/Settings.php:45
+msgid "Additional"
+msgstr ""
+
+#: views/admin/section/additional.php:9
+msgid "Remove product tag base"
+msgstr ""
+
+#: views/admin/section/additional.php:12 views/admin/section/additional.php:44
+msgid "Available only in premium version"
+msgstr ""
+
+#: views/admin/section/additional.php:21
+msgid "Use primary category"
+msgstr ""
+
+#: views/admin/section/additional.php:23
+msgid "Use 'Yoast SEO' primary category to build product path"
+msgstr ""
+
+#: views/admin/section/additional.php:31
+msgid "Add canonical"
+msgstr ""
+
+#: views/admin/section/additional.php:33
+msgid "Add canonical meta tag to old page"
+msgstr ""
+
+#: views/admin/section/additional.php:41
+msgid "Create redirect"
+msgstr ""
+
+#: views/admin/section/additional.php:45
+msgid "Create 301 redirect from old page"
+msgstr ""
+
+#: views/admin/section/category.php:9 views/admin/section/product.php:9
+msgid "Default"
+msgstr ""
+
+#: views/admin/section/category.php:18 views/admin/section/product.php:18
+msgid "Slug"
+msgstr ""
+
+#: views/admin/section/category.php:30 views/admin/section/product.php:42
+msgid "Hierarchical"
+msgstr ""
+
+#: views/admin/section/product.php:30
+msgid "Direct parent category"
 msgstr ""

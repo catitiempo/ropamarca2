@@ -1,6 +1,6 @@
 <?php namespace Premmerce\UrlManager\Admin;
 
-use Premmerce\UrlManager\WordpressSDK\FileManager\FileManager;
+use Premmerce\SDK\V1\FileManager\FileManager;
 use Premmerce\UrlManager\UrlManagerPlugin;
 
 /**
@@ -19,6 +19,9 @@ class Admin{
 	 */
 	private $fileManager;
 
+	private $settings;
+
+
 	/**
 	 * Admin constructor.
 	 *
@@ -27,6 +30,7 @@ class Admin{
 	public function __construct(FileManager $fileManager){
 		$this->fileManager  = $fileManager;
 		$this->settingsPage = UrlManagerPlugin::DOMAIN . '-admin';
+		$this->settings     = new Settings($fileManager);
 		$this->registerActions();
 	}
 
@@ -35,19 +39,23 @@ class Admin{
 			'created_product_cat',
 			'edited_product_cat',
 			'delete_product_cat',
-			'update_option_' . UrlManagerPlugin::OPTION_URL,
+			'update_option_' . Settings::OPTIONS,
 		];
 
 		foreach($flushActions as $action){
 			add_action($action, [$this, 'triggerFlush']);
 		}
 
+		add_action('shutdown', [$this, 'flush']);
+
 		add_action('admin_menu', [$this, 'addMenuPage']);
 		add_action('admin_menu', [$this, 'addFullPack'], 100);
 
-		add_action('admin_init', [$this, 'registerSettings']);
+		add_action('admin_init', [$this->settings, 'register']);
 
-		add_action('init', [$this, 'flush'], 999);
+		add_action('admin_enqueue_scripts', [$this, 'enqueueScripts']);
+
+
 	}
 
 
@@ -115,41 +123,17 @@ class Admin{
 	 * Options page
 	 */
 	public function options(){
-
-		$current = isset($_GET['tab'])? $_GET['tab'] : 'settings';
-
-		$tabs['settings'] = __('Settings', 'premmerce-url-manager');
-
-		if(function_exists('premmerce_wpm_fs')){
-			$tabs['contact'] = __('Contact Us', 'premmerce-url-manager');
-			if(premmerce_wpm_fs()->is_registered()){
-				$tabs['account'] = __('Account', 'premmerce-url-manager');
-			}
-		}
-
-		if($current === 'settings'){
-			$this->triggerFlush();
-		}
-
-		$this->fileManager->includeTemplate(
-			'admin/main.php',
-			[
-				'tabs'    => $tabs,
-				'current' => $current,
-				'options' => get_option(UrlManagerPlugin::OPTION_URL),
-			]
-		);
+		$this->triggerFlush();
+		$this->fileManager->includeTemplate('admin/main.php', ['settings' => $this->settings]);
 	}
 
-
 	/**
-	 * Register settings group
+	 * @param string $hook
 	 */
-	public function registerSettings(){
-		register_setting(
-			UrlManagerPlugin::DOMAIN . '-group',
-			UrlManagerPlugin::OPTION_URL
-		);
+	public function enqueueScripts($hook){
+		if($hook == 'premmerce_page_premmerce-url-manager-admin'){
+			wp_enqueue_style('premmerce-permalink-style', $this->fileManager->locateAsset('admin/css/style.css'));
+		}
 	}
 
 
@@ -157,17 +141,16 @@ class Admin{
 	 * Set flush trigger
 	 */
 	public function triggerFlush(){
-		update_option(UrlManagerPlugin::OPTION_FLUSH, true);
+		update_option(Settings::OPTION_FLUSH, true);
 	}
 
 	/**
 	 * Flush rewrite rules
 	 */
 	public function flush(){
-		$option = UrlManagerPlugin::OPTION_FLUSH;
-		if(get_option($option)){
-			add_action('shutdown', 'flush_rewrite_rules');
-			delete_option($option);
+		if(get_option(Settings::OPTION_FLUSH)){
+			flush_rewrite_rules();
+			delete_option(Settings::OPTION_FLUSH);
 		}
 	}
 }

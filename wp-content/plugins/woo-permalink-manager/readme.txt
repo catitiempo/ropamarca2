@@ -2,8 +2,8 @@
 Contributors: premmerce
 Tags: woocommerce url, remove product, remove product_category, woocommerce permalink, woocommerce, woocommerce seo
 Requires at least: 4.8
-Tested up to: 4.9.2
-Stable tag: 1.1.4
+Tested up to: 4.9.5
+Stable tag: 2.0
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,52 +12,71 @@ Premmerce WooCommerce Permalink Manager allows you to change WooCommerce permali
 
 == Description ==
 
-This plugin allows you to configure URL generation strategy for your WooCommerce based store. This is one of the must-have plugins for online store SEO according to [WooCommerce SEO Audit](https://premmerce.com/complete-woocommerce-seo-guide-tips/)
-
-Full documentation is available here: [WooCommerce Permalink Manager](https://premmerce.com/woocommerce-permalink-manager-remove-shop-product-product-category-url/)
-
-= Major features in “WooCommerce Permalink Manager” =
-
-* Removing base from product category URL
-* Removing hierarchical slugs from product category URL
-* Removing base from product URL
-* Using “Yoast SEO” permanent category url for products with multiple categories
-
-= Demo =
-
-You can see how it works on the Storefront theme here: <https://storefront.premmerce.com> .
-
-You can see how it works on the SalesZone theme here: <https://saleszone.premmerce.com> .
-
-Plus, you can create your personal demo store and test  this plugin together with [Premmerce Premium](https://premmerce.com/features/) and all other Premmerce plugins and themes  developed by our team here: [Premmerce WooCommerce Demo](https://premmerce.com/premmerce-woocommerce-demo/).
+WooCommerce Permalink Manager is developed to improve the current WooCommerce
+URL configuration features and provide your store with  better display options and additional
+SEO capabilities to adhere to [WooCommerce SEO Audit](https://premmerce.com/complete-woocommerce-seo-guide-tips/) standards.
 
 
-= Compatibility with other Plugins =
+= The main competitive advantages of the plugin =
 
-* WooCommerce
+* Automatic adding  of the ‘rel = canonical’ attribute, which eliminates duplicate pages in the search results and is highly recommended by most search engines.
+* Optimized work speed, even in online stores with a large number of products( over 100K).
+* Dedicated interface for setting up, which allows you to make all the permalinks settings for your online store on one page.
+* It has been tested for compatibility with the main WooCommerce plugins.
+
+= The main plugin features =
+
+* The ability to generate a product URL in such a way that only its slug can be seen.
+* The ability to generate a product URL in such a way that it consists  of a product and a main category slugs.
+* The ability to generate a product URL in such a way that it consists  of a product slug and its categories hierarchy.
+* The ability to generate a product category URL in such a way that only its slug can be seen.
+* The ability to generate a product category URL in such a way that only its slug and  categories hierarchy slugs can be seen.
+* The ability to choose a main category to generate a product URL.
+* Automatic adding of the ‘rel=canonical’ attribute to duplicate pages to improve SEO.
+
+= The additional premium features of the plugin =
+
+* The ability to remove the base from the product tags URL.
+* Automatic adding of 301 redirects to duplicated pages to improve SEO and site navigation.
+
+= DEMO =
+
+You can see how it works on the Storefront theme here: <https://storefront.premmerce.com>.
+
+You can see how it works on the SalesZone theme here: <https://saleszone.premmerce.com>.
+
+Plus, you can create your personal demo store and test this plugin together with [Premmerce Premium](https://premmerce.com/features/)
+and all other Premmerce plugins and themes developed by our team here: [Premmerce WooCommerce Demo](https://premmerce.com/premmerce-woocommerce-demo/).
+
+= This plugin is 100% compatible with =
+
+* base WooCommerce functionality
 * Yoast SEO
-* WooCommerce Multilingual
+* WPML WooCommerce Multilingual
+* all the Premmerce plugins
 
-= Installation =
+== Screenshots ==
 
-1. Unzip the downloaded zip file.
-1. Upload the plugin folder into the “wp-content/plugins/” directory of your WordPress site.
-1. Activate “WooCommerce Permalink Manager” from Plugins page
+1. The plugin settings
 
 == Frequently Asked Questions ==
 
-=  Does the plugin affect the overall response rate of an online store?  =
+= Does the plugin affect the overall response rate of an online store?  =
 We have tested how the plugin works with the basic WooCommerce kit and the standard storefront theme and haven’t noticed any influence on the response rate of the store.
 
 = Does the plugin create link duplicates? Does it affect SEO?  =
 The plugin works perfectly with the Yoast SEO plugin installed. No link duplicates are generated. All similar URLs are automatically tagged as canonical in accordance with the search engines’ recommendations.
 
-== Screenshots ==
+= Documentation =
+Full documentation is available here: [WooCommerce permalink manager](https://premmerce.com/woocommerce-permalink-manager-remove-shop-product-product-category-url/)
 
-1. The plugin settings
-2. Category page with changed url
-3. Product page with changed url
+= Installation Instructions =
+Go to Plugins -> Add New section from your admin account and search for WooCommerce Permalink Manager.
 
+You can also install this plugin manually:
+* Download the plugin’s ZIP archive and unzip it.
+* Copy the unzipped permalink-manager folder to the /wp-content/plugins/ directory.
+* Activate the plugin through the ‘Plugins’ menu in WordPress
 
 == Changelog ==
 
@@ -118,15 +137,17 @@ Release Date: Feb 02, 2018
 * Added WooCommerce 3.3.0 support
 * Updated translations
 
+= 2.0 =
 
-== Translators ==
+Release Date: Apr 19, 2018
 
-= Available Languages =
+* Fixed product comments pagination
+* Fixed WPML term link
+* Fixed private product link
+* Fixed product hierarchical permalink
+* Updated settings interface
+* Added "YOAST" primary category
+* Added canonicals
+* Added remove tag base to premium version
+* Added redirects to premium version
 
-* English (Default)
-* Russian
-* Ukrainian
-
-== Documentation ==
-
-Full documentation is available here: [WooCommerce permalink manager](https://premmerce.com/woocommerce-permalink-manager-remove-shop-product-product-category-url/)

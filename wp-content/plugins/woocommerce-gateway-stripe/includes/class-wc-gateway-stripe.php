@@ -276,6 +276,7 @@ class WC_Gateway_Stripe extends WC_Stripe_Payment_Gateway {
 		$display_tokenization = $this->supports( 'tokenization' ) && is_checkout() && $this->saved_cards;
 		$total                = WC()->cart->total;
 		$user_email           = '';
+		$description          = $this->get_description() ? $this->get_description() : '';
 
 		// If paying from order, we need to get total from order not cart.
 		if ( isset( $_GET['pay_for_order'] ) && ! empty( $_GET['key'] ) ) {
@@ -318,14 +319,14 @@ class WC_Gateway_Stripe extends WC_Stripe_Payment_Gateway {
 			data-three-d-secure="' . esc_attr( $this->three_d_secure ? 'true' : 'false' ) . '"
 			data-allow-remember-me="' . esc_attr( apply_filters( 'wc_stripe_allow_remember_me', true ) ? 'true' : 'false' ) . '">';
 
-		if ( $this->description ) {
+		if ( $description ) {
 			if ( $this->testmode ) {
 				/* translators: link to Stripe testing page */
-				$this->description .= ' ' . sprintf( __( 'TEST MODE ENABLED. In test mode, you can use the card number 4242424242424242 with any CVC and a valid expiration date or check the <a href="%s" target="_blank">Testing Stripe documentation</a> for more card numbers.', 'woocommerce-gateway-stripe' ), 'https://stripe.com/docs/testing' );
-				$this->description  = trim( $this->description );
+				$description .= ' ' . sprintf( __( 'TEST MODE ENABLED. In test mode, you can use the card number 4242424242424242 with any CVC and a valid expiration date or check the <a href="%s" target="_blank">Testing Stripe documentation</a> for more card numbers.', 'woocommerce-gateway-stripe' ), 'https://stripe.com/docs/testing' );
+				$description  = trim( $description );
 			}
 
-			echo apply_filters( 'wc_stripe_description', wpautop( wp_kses_post( $this->description ) ), $this->id );
+			echo apply_filters( 'wc_stripe_description', wpautop( wp_kses_post( $description ) ), $this->id );
 		}
 
 		if ( $display_tokenization ) {
@@ -372,15 +373,18 @@ class WC_Gateway_Stripe extends WC_Stripe_Payment_Gateway {
 				</div>
 			<?php } else { ?>
 				<div class="form-row form-row-wide">
-					<label><?php _e( 'Card Number', 'woocommerce-gateway-stripe' ); ?> <span class="required">*</span></label>
+					<label><?php esc_html_e( 'Card Number', 'woocommerce-gateway-stripe' ); ?> <span class="required">*</span></label>
+					<div class="stripe-card-group">
+						<div id="stripe-card-element" style="background:#fff;padding:0 1em;border:1px solid #ddd;margin:5px 0;padding:10px 5px;">
+						<!-- a Stripe Element will be inserted here. -->
+						</div>
 
-					<div id="stripe-card-element" style="background:#fff;padding:0 1em;border:1px solid #ddd;margin:5px 0;padding:10px 5px;">
-					<!-- a Stripe Element will be inserted here. -->
+						<i class="stripe-credit-card-brand stripe-card-brand" alt="Credit Card"></i>
 					</div>
 				</div>
 
 				<div class="form-row form-row-first">
-					<label><?php _e( 'Expiry Date', 'woocommerce-gateway-stripe' ); ?> <span class="required">*</span></label>
+					<label><?php esc_html_e( 'Expiry Date', 'woocommerce-gateway-stripe' ); ?> <span class="required">*</span></label>
 
 					<div id="stripe-exp-element" style="background:#fff;padding:0 1em;border:1px solid #ddd;margin:5px 0;padding:10px 5px;">
 					<!-- a Stripe Element will be inserted here. -->
@@ -388,7 +392,7 @@ class WC_Gateway_Stripe extends WC_Stripe_Payment_Gateway {
 				</div>
 
 				<div class="form-row form-row-last">
-					<label><?php _e( 'Card Code (CVC)', 'woocommerce-gateway-stripe' ); ?> <span class="required">*</span></label>
+					<label><?php esc_html_e( 'Card Code (CVC)', 'woocommerce-gateway-stripe' ); ?> <span class="required">*</span></label>
 				<div id="stripe-cvc-element" style="background:#fff;padding:0 1em;border:1px solid #ddd;margin:5px 0;padding:10px 5px;">
 				<!-- a Stripe Element will be inserted here. -->
 				</div>

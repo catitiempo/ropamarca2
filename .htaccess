@@ -1,4 +1,7 @@
 
+
+
+
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
@@ -10,3 +13,22 @@ RewriteRule . /ropamarca/index.php [L]
 </IfModule>
 
 # END WordPress
+RedirectMatch 403 ^/img/?$
+
+
+<FilesMatch "^.*(error_log|wp-config\.php|php.ini|\.[hH][tT][aApP].*)$">
+Order deny,allow
+Deny from all
+</FilesMatch>
+
+Options All -Indexes
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^wp-admin/includes/ - [F,L]
+RewriteRule !^wp-includes/ - [S=3]
+RewriteRule ^wp-includes/[^/]+\.php$ - [F,L]
+RewriteRule ^wp-includes/js/tinymce/langs/.+\.php - [F,L]
+RewriteRule ^wp-includes/theme-compat/ - [F,L]
+</IfModule>

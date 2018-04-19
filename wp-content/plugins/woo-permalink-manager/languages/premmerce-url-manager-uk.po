@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Premmerce url manager\n"
-"POT-Creation-Date: 2018-02-02 18:28+0200\n"
-"PO-Revision-Date: 2018-02-02 18:28+0200\n"
+"POT-Creation-Date: 2018-04-16 12:43+0300\n"
+"PO-Revision-Date: 2018-04-17 16:05+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk\n"
@@ -17,74 +17,190 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: build/src/Admin/Admin.php:80 build/src/Admin/Admin.php:81
-#: build/views/admin/main.php:2 src/Admin/Admin.php:80 src/Admin/Admin.php:81
+#: build/src/Admin/Admin.php:88 build/src/Admin/Admin.php:89
+#: src/Admin/Admin.php:88 src/Admin/Admin.php:89
 msgid "Permalink Manager"
 msgstr " Посилання магазину"
 
-#: build/src/Admin/Admin.php:121 src/Admin/Admin.php:121
-msgid "Settings"
-msgstr "Налаштування"
+#: build/src/Admin/Settings.php:35 src/Admin/Settings.php:35
+msgid "Categories"
+msgstr "Категорії"
 
-#: build/src/Admin/Admin.php:124 src/Admin/Admin.php:124
-msgid "Contact Us"
-msgstr "Зв'яжіться з нами"
+#: build/src/Admin/Settings.php:39 src/Admin/Settings.php:39
+msgid "Products"
+msgstr "Товари"
 
-#: build/src/Admin/Admin.php:126 src/Admin/Admin.php:126
-msgid "Account"
-msgstr "Аккаунт"
+#: build/src/Admin/Settings.php:43 src/Admin/Settings.php:43
+msgid "Additional"
+msgstr "Додатково"
 
-#: build/src/UrlManagerPlugin.php:108 src/UrlManagerPlugin.php:108
+#: build/src/UrlManagerPlugin.php:102 src/UrlManagerPlugin.php:102
 #, php-format
 msgid "The %s plugin requires %s plugin to be active!"
 msgstr "Для роботи плагіна %s потрібен плагін %s"
 
-#: build/views/admin/tabs/settings.php:7 views/admin/tabs/settings.php:7
-msgid "Category"
-msgstr "Категорія"
-
-#: build/views/admin/tabs/settings.php:14
-#: build/views/admin/tabs/settings.php:42 views/admin/tabs/settings.php:14
-#: views/admin/tabs/settings.php:42
-msgid "Remove base"
-msgstr "Не показувати префікс"
-
-#: build/views/admin/tabs/settings.php:17 views/admin/tabs/settings.php:17
-msgid ""
-"Remove prefix from category URL<br> default: /product-category/accessories/"
-"action-figures/ - changed: /accessories/action-figures/"
-msgstr ""
-"Не відображати префікс в URL категорії<br> за замовчуванням: /product-"
-"category/accessories/action-figures/ - змінено: /accessories/action-figures/"
-
-#: build/views/admin/tabs/settings.php:24 views/admin/tabs/settings.php:24
-msgid "Remove parent slugs"
-msgstr "Не показувати батьківський URL"
-
-#: build/views/admin/tabs/settings.php:27 views/admin/tabs/settings.php:27
-msgid ""
-"Remove parent slugs from category URL<br> default: /product-category/"
-"accessories/action-figures/ - changed: /product-category/action-figures/"
-msgstr ""
-"Не відображати батьківський URL в категорії<br> за замовчуванням: /product-"
-"category/accessories/action-figures/ - змінено: /product-category/action-"
-"figures/"
-
-#: build/views/admin/tabs/settings.php:34 views/admin/tabs/settings.php:34
-msgid "Product"
-msgstr "Товар"
-
-#: build/views/admin/tabs/settings.php:45 views/admin/tabs/settings.php:45
-msgid ""
-"Remove prefix from product URL<br> default: /shop/accessories/action-figures/"
-"acme/ - changed: /accessories/action-figures/acme/"
-msgstr ""
-"Не відображати префікс в URL товару<br> за замовчуванням: /shop/accessories/"
-"action-figures/acme/ - змінено: /accessories/action-figures/acme/"
-
-#: views/admin/main.php:2
+#: build/views/admin/main.php:3
 msgid "Manage Permalinks"
 msgstr "Управління посиланнями магазину"
+
+#: build/views/admin/section/additional.php:18
+#: views/admin/section/additional.php:18
+msgid "Remove product tag base"
+msgstr "Не показувати префікс для мітки товару"
+
+#: build/views/admin/section/additional.php:21
+#: build/views/admin/section/additional.php:53
+#: views/admin/section/additional.php:21 views/admin/section/additional.php:53
+msgid "Available only in premium version"
+msgstr "Доступно тільки в преміум версії"
+
+#: build/views/admin/section/additional.php:30
+#: views/admin/section/additional.php:30
+msgid "Use primary category"
+msgstr "Використовувати основну категорію"
+
+#: build/views/admin/section/additional.php:32
+#: views/admin/section/additional.php:32
+msgid "Use 'Yoast SEO' primary category to build product path"
+msgstr ""
+"Використовувати основну категорію  'Yoast SEO' для створення посилання товару"
+
+#: build/views/admin/section/additional.php:40
+msgid "Add canonical"
+msgstr "Додати canonical"
+
+#: build/views/admin/section/additional.php:42
+msgid "Add canonical meta tag to old page"
+msgstr "Додати мета тег canonical на старій сторінці"
+
+#: build/views/admin/section/additional.php:50
+msgid "Create redirect"
+msgstr "Створити перенаправлення"
+
+#: build/views/admin/section/additional.php:54
+msgid "Create 301 redirect from old page"
+msgstr "Створити 301 перенаправлення зі старої сторінки"
+
+#: build/views/admin/section/category.php:11
+#: build/views/admin/section/product.php:11
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: build/views/admin/section/category.php:20
+#: build/views/admin/section/product.php:20
+msgid "Slug"
+msgstr "Ярлик"
+
+#: build/views/admin/section/category.php:32
+#: build/views/admin/section/product.php:44
+msgid "Hierarchical"
+msgstr "Ієрархія"
+
+#: build/views/admin/section/product.php:32
+msgid "Direct parent category"
+msgstr "Пряма батьківська категорія"
+
+#: views/admin/main.php:3
+msgid "WooCommerce Permalink Settings"
+msgstr "Налаштування постійних посилань WooCommerce"
+
+#: views/admin/main.php:5
+msgid ""
+"WooCommerce Permalink Manager offers you the ability to create a custom URL "
+"structure for your permalinks. Custom URL structures can improve the "
+"aesthetics, usability, and forward-compatibility of your links. A number of "
+"settings are available, and here are some examples to get you started."
+msgstr ""
+"WooCommerce Permalink Manager дає можливість вказати для постійних посилань "
+"і архівів власну структуру. Це може надати вашими посиланнями естетичність, "
+"зручність використання і забезпечити сумісність в майбутньому. Можете "
+"переглянути повний список доступних налаштувань, а для початку кілька "
+"прикладів."
+
+#: views/admin/section/additional.php:40
+msgid "Add canonicals"
+msgstr "Додати canonical"
+
+#: views/admin/section/additional.php:42
+msgid "Add canonical meta tag to duplicated pages"
+msgstr "Додати мета тег canonical на продубльованій сторінці"
+
+#: views/admin/section/additional.php:50
+msgid "Create redirects"
+msgstr "Створити перенаправлення"
+
+#: views/admin/section/additional.php:54
+msgid "Create 301 redirect from duplicated pages"
+msgstr "Створити 301 перенаправлення з продубльованої сторінки"
+
+#: views/admin/section/category.php:11 views/admin/section/product.php:14
+msgid "Use WooCommerce settings"
+msgstr "Використовувати налаштування WooCommerce"
+
+#: views/admin/section/category.php:20
+msgid "Category slug"
+msgstr "Ярлик категорії"
+
+#: views/admin/section/category.php:32
+msgid "Full category path"
+msgstr "Повний шлях категорії"
+
+#: views/admin/section/product.php:25
+msgid "Product slug"
+msgstr "Ярлик товару"
+
+#: views/admin/section/product.php:37
+msgid "Product slug with primary category"
+msgstr "Ярлик товару з основною категорією"
+
+#: views/admin/section/product.php:49
+msgid "Full product path"
+msgstr "Повний шлях товару"
+
+#~ msgid "Settings"
+#~ msgstr "Налаштування"
+
+#~ msgid "Contact Us"
+#~ msgstr "Зв'яжіться з нами"
+
+#~ msgid "Account"
+#~ msgstr "Аккаунт"
+
+#~ msgid "Category"
+#~ msgstr "Категорія"
+
+#~ msgid "Remove base"
+#~ msgstr "Не показувати префікс"
+
+#~ msgid ""
+#~ "Remove prefix from category URL<br> default: /product-category/"
+#~ "accessories/action-figures/ - changed: /accessories/action-figures/"
+#~ msgstr ""
+#~ "Не відображати префікс в URL категорії<br> за замовчуванням: /product-"
+#~ "category/accessories/action-figures/ - змінено: /accessories/action-"
+#~ "figures/"
+
+#~ msgid "Remove parent slugs"
+#~ msgstr "Не показувати батьківський URL"
+
+#~ msgid ""
+#~ "Remove parent slugs from category URL<br> default: /product-category/"
+#~ "accessories/action-figures/ - changed: /product-category/action-figures/"
+#~ msgstr ""
+#~ "Не відображати батьківський URL в категорії<br> за замовчуванням: /"
+#~ "product-category/accessories/action-figures/ - змінено: /product-category/"
+#~ "action-figures/"
+
+#~ msgid "Product"
+#~ msgstr "Товар"
+
+#~ msgid ""
+#~ "Remove prefix from product URL<br> default: /shop/accessories/action-"
+#~ "figures/acme/ - changed: /accessories/action-figures/acme/"
+#~ msgstr ""
+#~ "Не відображати префікс в URL товару<br> за замовчуванням: /shop/"
+#~ "accessories/action-figures/acme/ - змінено: /accessories/action-figures/"
+#~ "acme/"
 
 #~ msgid "WooCommerce Permalink Manager"
 #~ msgstr "Управління посиланнями магазину"

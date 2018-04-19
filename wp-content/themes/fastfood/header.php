@@ -35,7 +35,7 @@
             }
             ?>
 
-              <img src="<?php bloginfo('template_url'); ?>/img/logo.png" alt="Ropa de marca">
+              <img src="<?php echo home_url(  ); ?>/img/logo.png" alt="Ropa de marca">
             <?php
             if ( is_front_page() != true) {
               echo '</a>';

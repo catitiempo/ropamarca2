@@ -9,30 +9,32 @@ class ComposerStaticInitae9fc0c0f8fb8c17ea09a1107590889c
     public static $prefixLengthsPsr4 = array (
         'P' => 
         array (
-            'Premmerce\\UrlManager\\WordpressSDK\\' => 34,
             'Premmerce\\UrlManager\\' => 21,
+            'Premmerce\\SDK\\' => 14,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Premmerce\\UrlManager\\WordpressSDK\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/sdk',
-        ),
         'Premmerce\\UrlManager\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
+        'Premmerce\\SDK\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/premmerce/wordpress-sdk/src',
+        ),
     );
 
     public static $classMap = array (
+        'Premmerce\\SDK\\V1\\FileManager\\FileManager' => __DIR__ . '/..' . '/premmerce/wordpress-sdk/src/V1/FileManager/FileManager.php',
+        'Premmerce\\SDK\\V1\\Notifications\\AdminNotifier' => __DIR__ . '/..' . '/premmerce/wordpress-sdk/src/V1/Notifications/AdminNotifier.php',
+        'Premmerce\\SDK\\V1\\Plugin\\PluginInterface' => __DIR__ . '/..' . '/premmerce/wordpress-sdk/src/V1/Plugin/PluginInterface.php',
         'Premmerce\\UrlManager\\Admin\\Admin' => __DIR__ . '/../..' . '/src/Admin/Admin.php',
+        'Premmerce\\UrlManager\\Admin\\Settings' => __DIR__ . '/../..' . '/src/Admin/Settings.php',
         'Premmerce\\UrlManager\\Frontend\\Frontend' => __DIR__ . '/../..' . '/src/Frontend/Frontend.php',
         'Premmerce\\UrlManager\\PermalinkListener' => __DIR__ . '/../..' . '/src/PermalinkListener.php',
+        'Premmerce\\UrlManager\\Updater' => __DIR__ . '/../..' . '/src/Updater.php',
         'Premmerce\\UrlManager\\UrlManagerPlugin' => __DIR__ . '/../..' . '/src/UrlManagerPlugin.php',
-        'Premmerce\\UrlManager\\WordpressSDK\\FileManager\\FileManager' => __DIR__ . '/../..' . '/sdk/FileManager/FileManager.php',
-        'Premmerce\\UrlManager\\WordpressSDK\\Notifications\\AdminNotifier' => __DIR__ . '/../..' . '/sdk/Notifications/AdminNotifier.php',
-        'Premmerce\\UrlManager\\WordpressSDK\\Plugin\\PluginInterface' => __DIR__ . '/../..' . '/sdk/Plugin/PluginInterface.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

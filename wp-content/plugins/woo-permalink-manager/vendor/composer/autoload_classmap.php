@@ -6,11 +6,13 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Premmerce\\SDK\\V1\\FileManager\\FileManager' => $vendorDir . '/premmerce/wordpress-sdk/src/V1/FileManager/FileManager.php',
+    'Premmerce\\SDK\\V1\\Notifications\\AdminNotifier' => $vendorDir . '/premmerce/wordpress-sdk/src/V1/Notifications/AdminNotifier.php',
+    'Premmerce\\SDK\\V1\\Plugin\\PluginInterface' => $vendorDir . '/premmerce/wordpress-sdk/src/V1/Plugin/PluginInterface.php',
     'Premmerce\\UrlManager\\Admin\\Admin' => $baseDir . '/src/Admin/Admin.php',
+    'Premmerce\\UrlManager\\Admin\\Settings' => $baseDir . '/src/Admin/Settings.php',
     'Premmerce\\UrlManager\\Frontend\\Frontend' => $baseDir . '/src/Frontend/Frontend.php',
     'Premmerce\\UrlManager\\PermalinkListener' => $baseDir . '/src/PermalinkListener.php',
+    'Premmerce\\UrlManager\\Updater' => $baseDir . '/src/Updater.php',
     'Premmerce\\UrlManager\\UrlManagerPlugin' => $baseDir . '/src/UrlManagerPlugin.php',
-    'Premmerce\\UrlManager\\WordpressSDK\\FileManager\\FileManager' => $baseDir . '/sdk/FileManager/FileManager.php',
-    'Premmerce\\UrlManager\\WordpressSDK\\Notifications\\AdminNotifier' => $baseDir . '/sdk/Notifications/AdminNotifier.php',
-    'Premmerce\\UrlManager\\WordpressSDK\\Plugin\\PluginInterface' => $baseDir . '/sdk/Plugin/PluginInterface.php',
 );

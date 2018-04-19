@@ -1,15 +1,8 @@
+<?php defined('WPINC') || die; ?>
 <div class="wrap">
-    <h2><?php _e('Manage Permalinks', 'premmerce-url-manager')?></h2>
-    <h2 class="nav-tab-wrapper">
-		<?php foreach($tabs as $tab => $name): ?>
-			<?php $class = ($tab == $current)? ' nav-tab-active' : ''; ?>
-            <a class='nav-tab<?php echo $class ?>'
-               href='?page=premmerce-url-manager-admin&tab=<?php echo $tab ?>'><?php echo $name ?></a>
-		<?php endforeach; ?>
-    </h2>
-	<?php $file = __DIR__ . "/tabs/{$current}.php" ?>
-	<?php if(file_exists($file)): ?>
-		<?php include $file ?>
-	<?php endif; ?>
+    <h2><?php _e('WooCommerce Permalink Settings', 'premmerce-url-manager') ?></h2>
+    <p>
+		<?php _e('WooCommerce Permalink Manager offers you the ability to create a custom URL structure for your permalinks. Custom URL structures can improve the aesthetics, usability, and forward-compatibility of your links. A number of settings are available, and here are some examples to get you started.','premmerce-url-manager'); ?>
+    </p>
+	<?php $settings->show(); ?>
 </div>
-
