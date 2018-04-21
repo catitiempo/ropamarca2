@@ -60,6 +60,26 @@ add_filter( 'term_link', function($termlink){ return str_replace('/./', '/', $te
 
 // Eliminar todos los CSS de WooCommerce de golpe
 //add_filter( 'woocommerce_enqueue_styles', '__return_false' );
+
+function ropamarca_remove_innecesary_styles() {
+    wp_dequeue_style('pwb-lib-slick') ;
+    wp_deregister_style('pwb-lib-slick');
+    wp_dequeue_script('pwb-lib-slick');
+    wp_dequeue_style('pwb-styles-frontend' );
+    wp_deregister_style('pwb-styles-frontend' );
+    wp_dequeue_script('pwb-functions-frontend');
+    wp_dequeue_style('pwb-styles-admin' );
+    wp_deregister_style('pwb-styles-admin' );
+
+}
+add_action( 'wp_enqueue_scripts', 'ropamarca_remove_innecesary_styles', 100 );
+
+
+//add_filter( 'woocommerce_enqueue_scripts', '__return_false' );
+
+// Eliminar todos los js de WooCommerce de golpe
+//add_filter( 'woocommerce_enqueue_scripts', '__return_false' );
+
 function load_ropamarca_scripts()
 {
     wp_enqueue_style('google-fonts', 'https://fonts.googleapis.com/css?family=Roboto:400,500,700');

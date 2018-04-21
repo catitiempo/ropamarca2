@@ -1,387 +1,472 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/wp-content/themes/ropamarca/functions.php" line="64" mnemonic="7" />
+    <bookmark url="file://$PROJECT_DIR$/wp-content/themes/ropamarca/functions.php" line="84" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1777d940-5586-4ea8-9980-894a1ab6096c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/fastfood/woocommerce/archive-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/woocommerce/archive-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/taxonomy-pwb-brand.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/2x1-100x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/2x1-150x103.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/2x1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-1-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-1-1024x413.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-1-300x121.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-1-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-1-600x242.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-1-768x310.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-1024x413.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-300x121.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-600x242.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner-768x310.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/espagnolo_banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_lajaca-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_lajaca-150x135.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_lajaca-300x123.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_lajaca-300x135.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_lajaca.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_solera-100x30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_solera.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_spagnolo-100x42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_spagnolo-150x42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_spagnolo-300x31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_spagnolo-300x42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_spagnolo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_tous-100x59.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_tous-150x59.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_tous.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_valecuatro-100x74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_valecuatro-150x74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_valecuatro-300x53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_valecuatro-300x74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_valecuatro-416x73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_valecuatro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temp_vale4-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temp_vale4-1024x485.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temp_vale4-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temp_vale4-300x142.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temp_vale4-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temp_vale4-600x284.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temp_vale4-768x363.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temp_vale4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-1-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-1-1024x576.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-1-300x169.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-1-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-1-600x338.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-1-768x432.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-1024x576.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-300x169.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-600x338.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous-768x432.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nueva_temporada_tous.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pv-18-1-02-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pv-18-1-02-1024x413.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pv-18-1-02-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pv-18-1-02-300x121.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pv-18-1-02-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pv-18-1-02-600x242.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pv-18-1-02-768x310.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pv-18-1-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/all-admin-notice.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/checkout-legacy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/sdk/FileManager/FileManager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/sdk/Notifications/AdminNotifier.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/sdk/Plugin/PluginInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/views/admin/tabs/account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/views/admin/tabs/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/views/admin/tabs/settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/css/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/css/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/css/jQueryFileTree.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/css/jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/css/notice.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/css/wp-smushit-admin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/application.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/css.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/db.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/dev-team.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/directory-lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/directory.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/doc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/file-lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/film.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/flash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/folder-closed.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/folder-open-selected.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/folder-open.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/folder_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/html.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/hummingbird.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/icon-gzip.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/image.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/java.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/linux.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/pdf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/php.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/picture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/ppt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/psd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/ruby.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/script.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/share-bg-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/smush-no-media.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/smush-promo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/smush-quicksetup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/spinner.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/txt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/welcome-notice.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/whatsapp-button-14px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/whatsapp-button-16px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/xls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/images/zip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/js/bulk-smush.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/js/jQueryFileTree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/js/media.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/js/notice.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/js/ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/js/wp-smushit-admin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/WPMU DEV Dashboard.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/WPMU-DEV-App-Icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/WPMU-DEV-App-Icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/WPMU-DEV-App-Icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/WPMU-DEV-App-Icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/WPMU-DEV-Icon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/WPMU-DEV-Icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/WPMU-DEV-Icon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/WPMU-DEV-Icon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/WPMU-DEV-Icon.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/fontawesome-webfont.svgz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/font/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/img/spin-grey.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/img/spin.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/notice.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/notice.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/plugin-ui.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/wdev-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/assets/shared-ui/wdev-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/extras/dash-notice/wpmudev-dash-notification.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/extras/free-dashboard/admin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/extras/free-dashboard/admin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/extras/free-dashboard/module.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/languages/wp-smushit.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-async.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-backup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-bulk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-db.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-dir.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-migrate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-nextgen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-png_jpg.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-resize.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-s3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-share.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-stats.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush-ui.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/class-wp-smush.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/nextgen-integration/class-wp-smush-nextgen-admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/nextgen-integration/class-wp-smush-nextgen-bulk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/nextgen-integration/class-wp-smush-nextgen-stats.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/wp-async-task-smush.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/lib/wp-async-task.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/uninstall.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-smushit/wp-smush.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/beanie-3.jpg" afterPath="$PROJECT_DIR$/img/beanie-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/belt-3-300x300.jpg" afterPath="$PROJECT_DIR$/img/belt-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/belt-3.jpg" afterPath="$PROJECT_DIR$/img/belt-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cap-3-300x300.jpg" afterPath="$PROJECT_DIR$/img/cap-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cap-3-324x324.jpg" afterPath="$PROJECT_DIR$/img/cap-3-324x324.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cap-3.jpg" afterPath="$PROJECT_DIR$/img/cap-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/espagnolo_banner-2-100x100.jpg" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-100x100.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/espagnolo_banner-2-1024x439.jpg" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-1024x439.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/espagnolo_banner-2-150x150.jpg" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-150x150.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/espagnolo_banner-2-300x129.jpg" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-300x129.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/espagnolo_banner-2-300x300.jpg" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/espagnolo_banner-2-600x258.jpg" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-600x258.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/espagnolo_banner-2-768x330.jpg" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2-768x330.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/espagnolo_banner-2.jpg" afterPath="$PROJECT_DIR$/img/espagnolo_banner-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hero-3-300x300.jpg" afterPath="$PROJECT_DIR$/img/hero-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hero-3-600x372.jpg" afterPath="$PROJECT_DIR$/img/hero-3-600x372.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hero-3.jpg" afterPath="$PROJECT_DIR$/img/hero-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-3-600x600.jpg" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-3-600x600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-3.jpg" afterPath="$PROJECT_DIR$/img/hoodie-with-logo-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-3.jpg" afterPath="$PROJECT_DIR$/img/hoodie-with-pocket-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-3-600x600.jpg" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-3-600x600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-3-768x768.jpg" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-3-768x768.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-3.jpg" afterPath="$PROJECT_DIR$/img/hoodie-with-zipper-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lajaca_banner-100x100.jpg" afterPath="$PROJECT_DIR$/img/lajaca_banner-100x100.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lajaca_banner-1024x439.jpg" afterPath="$PROJECT_DIR$/img/lajaca_banner-1024x439.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lajaca_banner-150x150.jpg" afterPath="$PROJECT_DIR$/img/lajaca_banner-150x150.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lajaca_banner-300x129.jpg" afterPath="$PROJECT_DIR$/img/lajaca_banner-300x129.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lajaca_banner-300x300.jpg" afterPath="$PROJECT_DIR$/img/lajaca_banner-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lajaca_banner-600x258.jpg" afterPath="$PROJECT_DIR$/img/lajaca_banner-600x258.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lajaca_banner-768x330.jpg" afterPath="$PROJECT_DIR$/img/lajaca_banner-768x330.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lajaca_banner.jpg" afterPath="$PROJECT_DIR$/img/lajaca_banner.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-100x78.png" afterPath="$PROJECT_DIR$/img/logo-100x78.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-150x78.png" afterPath="$PROJECT_DIR$/img/logo-150x78.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_lajaca-1-100x82.jpg" afterPath="$PROJECT_DIR$/img/logo_lajaca-1-100x82.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_lajaca-1-150x82.jpg" afterPath="$PROJECT_DIR$/img/logo_lajaca-1-150x82.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_lajaca-1.jpg" afterPath="$PROJECT_DIR$/img/logo_lajaca-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_solera-1-100x41.png" afterPath="$PROJECT_DIR$/img/logo_solera-1-100x41.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_solera-1-150x41.png" afterPath="$PROJECT_DIR$/img/logo_solera-1-150x41.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_solera-1.png" afterPath="$PROJECT_DIR$/img/logo_solera-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_spagnolo-1-100x21.png" afterPath="$PROJECT_DIR$/img/logo_spagnolo-1-100x21.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_spagnolo-1-150x21.png" afterPath="$PROJECT_DIR$/img/logo_spagnolo-1-150x21.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_spagnolo-1.png" afterPath="$PROJECT_DIR$/img/logo_spagnolo-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_tous-1.jpg" afterPath="$PROJECT_DIR$/img/logo_tous-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_valecuatro-1-100x35.png" afterPath="$PROJECT_DIR$/img/logo_valecuatro-1-100x35.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_valecuatro-1-150x35.png" afterPath="$PROJECT_DIR$/img/logo_valecuatro-1-150x35.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_valecuatro-1.png" afterPath="$PROJECT_DIR$/img/logo_valecuatro-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-3-600x600.jpg" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-3-600x600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-3.jpg" afterPath="$PROJECT_DIR$/img/long-sleeve-tee-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/nueva_temporada-vale4-100x100.jpg" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-100x100.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/nueva_temporada-vale4-1024x439.jpg" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-1024x439.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/nueva_temporada-vale4-150x150.jpg" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-150x150.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/nueva_temporada-vale4-300x129.jpg" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-300x129.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/nueva_temporada-vale4-300x300.jpg" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/nueva_temporada-vale4-600x258.jpg" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-600x258.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/nueva_temporada-vale4-768x330.jpg" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4-768x330.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/nueva_temporada-vale4.jpg" afterPath="$PROJECT_DIR$/img/nueva_temporada-vale4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/polo-3-300x300.jpg" afterPath="$PROJECT_DIR$/img/polo-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/polo-3-324x324.jpg" afterPath="$PROJECT_DIR$/img/polo-3-324x324.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/polo-3-600x599.jpg" afterPath="$PROJECT_DIR$/img/polo-3-600x599.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/polo-3.jpg" afterPath="$PROJECT_DIR$/img/polo-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tshirt-3.jpg" afterPath="$PROJECT_DIR$/img/tshirt-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/vneck-tee-3-324x324.jpg" afterPath="$PROJECT_DIR$/img/vneck-tee-3-324x324.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/vneck-tee-3-600x599.jpg" afterPath="$PROJECT_DIR$/img/vneck-tee-3-600x599.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/vneck-tee-3-768x767.jpg" afterPath="$PROJECT_DIR$/img/vneck-tee-3-768x767.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/vneck-tee-3.jpg" afterPath="$PROJECT_DIR$/img/vneck-tee-3.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/accessories.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-1-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/beanie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-1-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/belt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-1-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cap.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-1-1024x635.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-1-300x186.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-1-600x372.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-1-768x477.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-1024x635.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-2-1024x635.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-2-300x186.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-2-600x372.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-2-768x477.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-300x186.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-600x372.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-768x477.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-1-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-1-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-pocket.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-1-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie-with-zipper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hoodies.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/long-sleeve-tee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-1-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-1-600x599.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-1-768x767.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-2-600x599.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-2-768x767.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-600x599.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo-768x767.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-1-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sunglasses.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-1-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-1-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-1-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-2-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-2-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-600x600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts-768x768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tshirts.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-1-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-1-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-1-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-1-600x599.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-1-768x767.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-2-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-2-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-2-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-2-600x599.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-2-768x767.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-300x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-324x324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-600x599.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee-768x767.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vneck-tee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_13133ae37f9decec203f87fad27af257.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_364961e1c312d6f411e1fd1ead21533b.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_371222ff76e2ef173b2413dac3dbe03d.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_3cdd20c812d703f52db47b86740e2f6d.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_411ccd1b8d76acf005219730d88fccfb.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_4f8d03e3de118b7f4248a853a1217023.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_73db07958ed25a1ee2945e0a0d33df6e.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_7f8d0bc3719f0b7fccbbd8e2abf9b475.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_8796663c9c230c32defbce6dd1adf1c6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_92bf6df4bcec0e0528cdf7126057a984.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_b83e6239647271cf5f255e2b280c0b29.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_d14a5ce29060989529f972205de30e22.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_dbe150b0b4ab63ce48301410b55f0776.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_e2f003d652561f5b36a3e5cd049aeb5a.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_ee869035664c366cbaf1c7d5f60b2f62.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_f0823fbdd54d09308d4ec0cd92b502ed.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_ff0f6cf90962ab01804c441acbad01ae.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_1dd720d53717845e66e2a275fef73c7b.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_21069a15e0be0ff9e3df58236d997f49.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_236ddf1d88ce0609cb13ac380e44d653.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_3911f0d3de805b7e5df13d8124b6df20.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_3c646643d0808ed4babcea0cbf48433b.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_4035f836bc60dd2dd84c2cb3951a5c32.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_4851fed288a3d7fbd332fb4c948b0c58.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_a8144a95364c8a024d8e527a2734b46e.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_b8dedd7e89f24b7aa8b7920f3fa22380.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_dafcc6d237cb5f625fb005642e7b7d8d.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_e169f37b3527c98b60d9f715ea7324ed.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_f0bbc8846061249b5b98f6fa3d22720f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_f10bebe4d45d980b511ca7e27342c3b8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_f38b2db10e01b1572732a3191d538707.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/autoptimize_snippet_f3bfc48c551377e924f9c0b5322147bf.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_153134ba34e553d4d33d62d0c41abba8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_293f73448c4e4e2eea64901b4e73198a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_2ee50c1c30c9996c54b94a6395662fec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_4a9453797de268ad97f40230b5690dcd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_535ac7a4105bf290ccbd1afc163022d8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_9f5139d27915e2e34bbe753288440cf2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_b172b5b232778acbe8c68f8206e51ee1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_019b08ec7379474ea1060a34bdf4bc1a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_05d91714389e25b05a00376d63101ad6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_0a530f155f6cc3222addcaecc388870c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_32dd3ac8dedae8ed78783aab7c4e4b28.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_3446c09b80a061b0c6bf5d53d0608756.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_4139854e7cec2bc66110f4d4879bd129.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_43f17965d7a09624752f715c495d87b6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_5a03f97cc479b9f5d7efdaccec31bc17.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_7121994eec5320fbe6586463bf9651c2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_765234021a972dcbdd5ef011a4870b28.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_7c4b11fd9dea3b04b09548f4cc40c826.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_81b2be18696c4dfe620f7b6d0d75a566.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_8b2fd88b3f924f11f2d712522dcf3af0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_943f6eb962c25bd965e0f0e5a284fcd0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_be4718307269a292fb358eb753eed541.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_d668fab29e3a08f04c403ff156a0a37b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_snippet_efe2dc57bf7b73137e9642e586ee272b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/autoptimize/js/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/wpfc-minified/0b806aa322e50901da2819e4711b9918/1524085626index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/wpfc-minified/0ebbae2ea37bd32a210c78d1a785ac2b/1524084180index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/wpfc-minified/1cb96eceac70c433abd797167409f2ba/1524084179index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/wpfc-minified/3c6021feb776610b55c3e8955eea8ee4/1524085908index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/wpfc-minified/4d05f4ec8b446d6878b77213fad6166e/1524086242index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/wpfc-minified/910ec44f6787b35dc0fbcf6b3a731b38/1524084179index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/cache/wpfc-minified/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/async-javascript-screenshot1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/chosen-sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/chosen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/chosen.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/chosen.jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/chosen.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/chosen.proto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/chosen.proto.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/docsupport/chosen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/docsupport/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/docsupport/init.proto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/docsupport/jquery-1.12.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/docsupport/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/docsupport/oss-credit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/docsupport/prism.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/docsupport/prism.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/docsupport/prototype-1.7.0.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/docsupport/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/index.proto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/options.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/assets/lib/chosen/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/async-javascript.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/asyncjsAllAjax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/asyncjsBackendClass.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/asyncjsDashboardScreens.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/asyncjsFrontendClass.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/asyncjsHelpScreens.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/asyncjsPartnersScreens.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/asyncjsSettingsScreens.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/asyncjsStatusScreens.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/asyncjsWizardScreens.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/css/admin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/css/admin.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/async-javascript-pro.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/clock_fast_times_text_10762.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/crazy-one-week-sale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/finger_point_out_punch_hole_400_clr_17860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/not_available.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number-block-eight.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number-block-five.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number-block-four.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number-block-nine.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number-block-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number-block-seven.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number-block-six.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number-block-three.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number-block-two.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number_five_break_hole_150_clr_18842.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number_four_break_hole_150_clr_18840.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number_one_break_hole_150_clr_18741.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number_three_break_hole_150_clr_18837.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/number_two_break_hole_150_clr_18753.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/images/stick_figure_panicking_150_clr_13267.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/js/admin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/js/admin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/lib/gtmetrix/class.Services_WTF_Test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/async-javascript/readme.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/src/Admin/Admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/src/Admin/Admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/sdk/FreemiusWordPress.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/sdk/FreemiusWordPress.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/src/Frontend/Frontend.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/src/Frontend/Frontend.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/src/PermalinkListener.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/src/PermalinkListener.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/src/UrlManagerPlugin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/src/UrlManagerPlugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/_colors.scss" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/_colors.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/admin/_license-activation.scss" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/admin/_license-activation.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/admin/_modal-common.scss" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/admin/_modal-common.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/abstracts/abstract-wc-stripe-payment-gateway.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/abstracts/abstract-wc-stripe-payment-gateway.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/css/admin/account.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/css/admin/account.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/account.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/admin/account.scss" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/admin/account.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/css/admin/affiliation.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/css/admin/affiliation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/forms/affiliation.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/forms/affiliation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/alipay.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/alipay.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/auto-installation.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/auto-installation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/vendor/composer/autoload_classmap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/vendor/composer/autoload_psr4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/vendor/composer/autoload_static.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/bancontact.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/bancontact.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/bitcoin.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/bitcoin.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/changelog.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/changelog.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/checkout.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/checkout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/class-freemius.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/class-freemius.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-admin-menu-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-admin-menu-manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-admin-notice-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-admin-notice-manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/class-fs-api.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/class-fs-api.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-cache-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-cache-manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-key-value-storage.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-key-value-storage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/class-fs-logger.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/class-fs-logger.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-option-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-option-manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/entities/class-fs-plugin-license.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/entities/class-fs-plugin-license.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-plugin-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/managers/class-fs-plugin-manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/entities/class-fs-plugin-tag.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/entities/class-fs-plugin-tag.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/class-fs-plugin-updater.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/class-fs-plugin-updater.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/entities/class-fs-plugin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/entities/class-fs-plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/entities/class-fs-site.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/entities/class-fs-site.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-alipay.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-alipay.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-bancontact.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-bancontact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-bitcoin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-bitcoin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-eps.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-eps.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-giropay.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-giropay.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-ideal.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-ideal.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-multibanco.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-multibanco.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-p24.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-p24.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sepa.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sepa.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sofort.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sofort.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-gateway-stripe.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-gateway-stripe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/class-wc-stripe-admin-notices.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/class-wc-stripe-admin-notices.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-logger.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-logger.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-sepa-subs-compat.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-sepa-subs-compat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-webhook-handler.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-webhook-handler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/config.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/css/admin/connect.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/css/admin/connect.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/connect.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/connect.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/admin/connect.scss" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/admin/connect.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/contact.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/debug.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/debug.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/css/admin/dialog-boxes.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/css/admin/dialog-boxes.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/admin/dialog-boxes.scss" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/assets/scss/admin/dialog-boxes.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/eps.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/eps.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-en.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-en.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-en.po" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-en.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-es_ES.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-es_ES.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-es_ES.po" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-es_ES.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-he_IL.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-he_IL.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-he_IL.po" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-he_IL.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-it_IT.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-it_IT.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-it_IT.po" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-it_IT.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-ja_JP.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-ja_JP.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-ja_JP.po" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius-ja_JP.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/languages/freemius.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/fs-core-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/fs-core-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/supplements/fs-essential-functions-1.1.7.1.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/supplements/fs-essential-functions-1.1.7.1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/fs-essential-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/fs-essential-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/fs-plugin-info-dialog.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/fs-plugin-info-dialog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/giropay.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/giropay.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fastfood/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/fastfood/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/i18n.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/includes/i18n.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/ideal.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/ideal.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/vendor/composer/installed.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/forms/license-activation.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/forms/license-activation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/views/admin/main.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/views/admin/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/multibanco.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/multibanco.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/p24.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/p24.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/plugin-icon.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/plugin-icon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/debug/plugins-themes-sync.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/debug/plugins-themes-sync.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/languages/premmerce-url-manager-ru_RU.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/languages/premmerce-url-manager-ru_RU.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/languages/premmerce-url-manager-ru_RU.po" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/languages/premmerce-url-manager-ru_RU.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/languages/premmerce-url-manager-uk.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/languages/premmerce-url-manager-uk.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/languages/premmerce-url-manager-uk.po" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/languages/premmerce-url-manager-uk.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/premmerce-url-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/premmerce-url-manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/languages/premmerce-url-manager.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/languages/premmerce-url-manager.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/pricing.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/pricing.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/require.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/require.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/debug/scheduled-crons.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/templates/debug/scheduled-crons.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/sepa.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/sepa.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/sofort.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/sofort.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/start.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-permalink-manager/freemius/start.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/css/stripe-styles.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/css/stripe-styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/wechat.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/wechat.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/woocommerce-gateway-stripe.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/woocommerce-gateway-stripe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/languages/woocommerce-gateway-stripe.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/languages/woocommerce-gateway-stripe.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ropamarca/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/ropamarca/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ropamarca.iws" />
@@ -404,24 +489,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="archive-product.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/woocommerce/archive-product.php">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875">
-              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+            <state vertical-scroll-proportion="-0.5882353">
+              <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="taxonomy-pwb-brand.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/taxonomy-pwb-brand.php">
+      <file leaf-file-name="class-perfect-woocommerce-brands.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/perfect-woocommerce-brands/classes/class-perfect-woocommerce-brands.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.88235295">
-              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
-              <folding>
-                <element signature="e#6#735#0#PHP" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-2.3333333">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.wp-scripts.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-scripts.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3333333">
+              <caret line="287" column="30" selection-start-line="287" selection-start-column="25" selection-end-line="287" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/perfect-woocommerce-brands/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.3333335">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.wp-styles.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-styles.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.5686275">
+              <caret line="178" column="34" selection-start-line="178" selection-start-column="34" selection-end-line="178" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.wp-dependencies.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/class.wp-dependencies.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.2916665">
+              <caret line="301" column="20" selection-start-line="301" selection-start-column="20" selection-end-line="301" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -429,8 +552,8 @@
       <file leaf-file-name="wc-template-functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.458333">
-              <caret line="1728" column="49" selection-start-line="1728" selection-start-column="49" selection-end-line="1728" selection-end-column="49" />
+            <state vertical-scroll-proportion="-5.6666665">
+              <caret line="1209" column="8" selection-start-line="1209" selection-start-column="8" selection-end-line="1209" selection-end-column="8" />
               <folding>
                 <marker date="1523640193712" expanded="true" signature="65742:65755" placeholder="..." />
               </folding>
@@ -438,77 +561,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class-wc-breadcrumb.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-breadcrumb.php">
+      <file leaf-file-name="class-wc-shortcodes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="9.041667">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            <state vertical-scroll-proportion="-17.541666">
+              <caret line="555" column="8" selection-start-line="555" selection-start-column="8" selection-end-line="555" selection-end-column="8" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="query.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.6666665">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-              <folding>
-                <marker date="1516770760000" expanded="true" signature="22839:22976" placeholder="SELECT post_..." />
-                <marker date="1516770760000" expanded="true" signature="24482:24629" placeholder="SELECT post_..." />
-                <marker date="1516770760000" expanded="true" signature="24808:25066" placeholder="SELECT ID FR..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8411458">
-              <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
-              <folding>
-                <marker date="1524177003131" expanded="true" signature="1468:1614" placeholder="SELECT t.ter..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-33.125">
-              <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
-              <folding>
-                <element signature="e#6#50#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/404.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="31.5">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375">
-              <caret line="33" column="57" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="57" />
-              <folding>
-                <marker date="1524085354922" expanded="true" signature="1473:2158" placeholder="..." />
-                <marker date="1524085354922" expanded="true" signature="1494:2139" placeholder="..." />
-                <marker date="1524085354922" expanded="true" signature="1548:1863" placeholder="..." />
-                <marker date="1524085354922" expanded="true" signature="1637:1841" placeholder="..." />
-                <marker date="1524085354922" expanded="true" signature="1913:2117" placeholder="..." />
-                <marker date="1524085354922" expanded="true" signature="1982:2091" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -568,6 +626,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/ropamarca/taxonomy_pwb-brand.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ropamarca/taxonomy-pwb-brand.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ropamarca/woocommerce/archive-product.php" />
+        <option value="$PROJECT_DIR$/wp-includes/functions.wp-scripts.php" />
+        <option value="$PROJECT_DIR$/wp-includes/functions.wp-styles.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ropamarca/functions.php" />
       </list>
     </option>
@@ -639,6 +699,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="wp-includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ropamarca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ropamarca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="wp-content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -657,7 +731,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -675,33 +749,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ropamarca" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ropamarca" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ropamarca" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ropamarca" />
+              <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -726,11 +774,75 @@
               <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ropamarca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ropamarca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ropamarca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ropamarca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -810,18 +922,19 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29159936" sideWeight="0.49118942" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896653" sideWeight="0.4838449" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29644588" sideWeight="0.49118942" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26655897" sideWeight="0.5088106" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33915576" sideWeight="0.5226171" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896653" sideWeight="0.4838449" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -842,124 +955,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/home_prev.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.291666">
-          <caret line="37" column="0" selection-start-line="12" selection-start-column="8" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="2613" column="23" selection-start-line="2613" selection-start-column="16" selection-end-line="2613" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-frontend.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.6666665">
-          <caret line="666" column="41" selection-start-line="666" selection-start-column="41" selection-end-line="666" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-scripts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="263" column="9" selection-start-line="263" selection-start-column="9" selection-end-line="263" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fastfood/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="21" column="55" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="75" column="15" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/cache/autoptimize/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/cache/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/cache/autoptimize/js/autoptimize_9f5139d27915e2e34bbe753288440cf2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.286846">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/cache/autoptimize/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/cache/autoptimize/css/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/perfect-woocommerce-brands/classes/widgets/class-pwb-list.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.125">
           <caret line="100" column="17" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/perfect-woocommerce-brands/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33208954">
-          <caret line="156" column="8" selection-start-line="156" selection-start-column="8" selection-end-line="156" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1024,7 +1023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6641791">
           <caret line="32" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,7 +1037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1062,7 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="289" column="1" selection-start-line="234" selection-start-column="0" selection-end-line="289" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1070,7 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="145" column="5" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1078,7 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1086,15 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0">
           <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/perfect-woocommerce-brands/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="16.5">
-          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1102,15 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1953125">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/perfect-woocommerce-brands/classes/class-perfect-woocommerce-brands.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5234375">
-          <caret line="622" column="41" selection-start-line="622" selection-start-column="29" selection-end-line="622" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1118,14 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.4609375">
           <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
-          <folding>
-            <marker date="1523998961557" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523998961557" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523998961557" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523998961557" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523998961557" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1523998961557" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1133,11 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <marker date="1524086761458" expanded="true" signature="-1:-1" placeholder="&lt;IfModule mod_rewrite.c&gt;" />
-            <marker date="1524086761458" expanded="true" signature="-1:-1" placeholder="&lt;FilesMatch &quot;^.*(error_log|wp-config\.php|php.ini|\.[hH][tT][aApP].*)$&quot;&gt;" />
-            <marker date="1524086761458" expanded="true" signature="-1:-1" placeholder="&lt;IfModule mod_rewrite.c&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1145,7 +1107,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0">
           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1153,61 +1114,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46614584">
           <caret line="59" column="15" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.125">
+        <state vertical-scroll-proportion="0.0">
           <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
           <folding>
-            <element signature="e#6#50#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="31.5">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6666665">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <marker date="1516770760000" expanded="true" signature="22839:22976" placeholder="SELECT post_..." />
-            <marker date="1516770760000" expanded="true" signature="24482:24629" placeholder="SELECT post_..." />
-            <marker date="1516770760000" expanded="true" signature="24808:25066" placeholder="SELECT ID FR..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375">
-          <caret line="33" column="57" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="57" />
-          <folding>
-            <marker date="1524085354922" expanded="true" signature="1473:2158" placeholder="..." />
-            <marker date="1524085354922" expanded="true" signature="1494:2139" placeholder="..." />
-            <marker date="1524085354922" expanded="true" signature="1548:1863" placeholder="..." />
-            <marker date="1524085354922" expanded="true" signature="1637:1841" placeholder="..." />
-            <marker date="1524085354922" expanded="true" signature="1913:2117" placeholder="..." />
-            <marker date="1524085354922" expanded="true" signature="1982:2091" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.458333">
-          <caret line="1728" column="49" selection-start-line="1728" selection-start-column="49" selection-end-line="1728" selection-end-column="49" />
-          <folding>
-            <marker date="1523640193712" expanded="true" signature="65742:65755" placeholder="..." />
+            <element signature="e#6#50#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1216,45 +1131,181 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1316527">
           <caret line="312" column="20" selection-start-line="312" selection-start-column="20" selection-end-line="312" selection-end-column="20" />
-          <folding>
-            <marker date="1523640193246" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-breadcrumb.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-page-functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.041667">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state vertical-scroll-proportion="2.421875">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart-empty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.625">
+          <caret line="31" column="127" selection-start-line="31" selection-start-column="127" selection-end-line="31" selection-end-column="127" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/taxonomy-pwb-brand.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.88235295">
+        <state vertical-scroll-proportion="0.0">
           <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
           <folding>
-            <element signature="e#6#735#0#PHP" expanded="true" />
+            <element signature="e#6#735#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/woocommerce/archive-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
+        <state vertical-scroll-proportion="0.0">
           <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-breadcrumb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1516770760000" expanded="true" signature="-1:-1" placeholder="SELECT post_..." />
+            <marker date="1516770760000" expanded="true" signature="-1:-1" placeholder="SELECT post_..." />
+            <marker date="1516770760000" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="57" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="57" />
+          <folding>
+            <marker date="1524085354922" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1524085354922" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1524085354922" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1524085354922" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1524085354922" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1524085354922" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6666665">
+          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.541666">
+          <caret line="555" column="8" selection-start-line="555" selection-start-column="8" selection-end-line="555" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6666665">
+          <caret line="1209" column="8" selection-start-line="1209" selection-start-column="8" selection-end-line="1209" selection-end-column="8" />
+          <folding>
+            <marker date="1523640193712" expanded="true" signature="65742:65755" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/perfect-woocommerce-brands/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/perfect-woocommerce-brands/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3333335">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class.wp-dependencies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.2916665">
+          <caret line="301" column="20" selection-start-line="301" selection-start-column="20" selection-end-line="301" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-styles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5686275">
+          <caret line="178" column="34" selection-start-line="178" selection-start-column="34" selection-end-line="178" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3333333">
+          <caret line="287" column="30" selection-start-line="287" selection-start-column="25" selection-end-line="287" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/customize/class-wp-customize-selective-refresh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35416666">
+          <caret line="348" column="43" selection-start-line="348" selection-start-column="43" selection-end-line="348" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/script-loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5104167">
+          <caret line="1435" column="34" selection-start-line="1435" selection-start-column="16" selection-end-line="1435" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/perfect-woocommerce-brands/classes/class-perfect-woocommerce-brands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3333333">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ropamarca/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8411458">
-          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
-          <folding>
-            <marker date="1524177003131" expanded="true" signature="1468:1614" placeholder="SELECT t.ter..." />
-          </folding>
+        <state vertical-scroll-proportion="-0.5882353">
+          <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>

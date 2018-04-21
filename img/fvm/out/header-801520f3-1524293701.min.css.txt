@@ -1,0 +1,6 @@
+PROCESSED on Sat, 21 Apr 2018 06:55:57 +0000
+/wp-content/plugins/woocommerce/assets/css/select2.css --- Debug: [select2] File was opened from /Users/catipel/Sites/ropamarca/wp-content/plugins/woocommerce/assets/css/select2.css ---
+/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css --- Debug: Fetched from transients cache with key fvm-cache-15242937017ecd2403 ---
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css --- Debug: Fetched from transients cache with key fvm-cache-15242937018b142138 ---
+/wp-content/themes/ropamarca/style.css --- Debug: Fetched from transients cache with key fvm-cache-152429370139ef1929 ---
+PROCESSED from https://localhost/ropamarca/ropamarca/mi-cuenta/

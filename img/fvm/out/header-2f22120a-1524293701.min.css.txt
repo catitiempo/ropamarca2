@@ -1,0 +1,3 @@
+PROCESSED on Sat, 21 Apr 2018 06:55:24 +0000
+/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css --- Debug: [woocommerce-smallscreen] File was opened from /Users/catipel/Sites/ropamarca/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css ---
+PROCESSED from https://localhost/ropamarca/ropamarca/
