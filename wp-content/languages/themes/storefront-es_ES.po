@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Storefront package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-01-16 16:12:43+0000\n"
+"PO-Revision-Date: 2018-04-20 23:05:16+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -148,7 +148,7 @@ msgstr "Contacta"
 
 #: inc/nux/class-storefront-nux-starter-content.php:68
 msgid "You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe."
-msgstr "Puede que seas un artista que quieras presentarte a tí y tu trabajo aquí, o puede que tengas un negocio con una misión que describir."
+msgstr "Puede que seas un artista que quieras presentarte a ti y tu trabajo aquí, o puede que tengas un negocio con una misión que describir."
 
 #: inc/nux/class-storefront-nux-starter-content.php:67
 msgid "About"
@@ -253,11 +253,11 @@ msgstr "Gracias por instalar Storefront, ¡tú molas! 🤘"
 
 #: inc/class-storefront.php:171
 msgid "Widgets added here will appear in column %1$d of footer row %2$d."
-msgstr "Los widgets añadidos aquí aparecerán en la columna %1$d del pié de página en la fila %2$d."
+msgstr "Los widgets añadidos aquí aparecerán en la columna %1$d del pie de página en la fila %2$d."
 
 #: inc/class-storefront.php:170
 msgid "Footer Row %1$d - Column %2$d"
-msgstr "Pié de página fila %1$d - Columna %2$d"
+msgstr "Pie de página fila %1$d - Columna %2$d"
 
 #: inc/class-storefront.php:168
 msgid "Widgets added here will appear in column %1$d of the footer."
@@ -265,7 +265,7 @@ msgstr "Los widgets añadidos aquí aparecerán en la columna %1$d del pie de p�
 
 #: inc/class-storefront.php:167
 msgid "Footer Column %1$d"
-msgstr "Pié de página columna %1$d"
+msgstr "Pie de página columna %1$d"
 
 #: inc/admin/class-storefront-admin.php:250
 #: inc/admin/class-storefront-plugin-install.php:104
@@ -596,7 +596,7 @@ msgstr "Más"
 
 #: inc/customizer/class-storefront-customizer.php:289
 msgid "Customize the look & feel of your website footer."
-msgstr "Personaliza el aspecto del pié de página de tu web."
+msgstr "Personaliza el aspecto del pie de página de tu web."
 
 #: inc/customizer/class-storefront-customizer.php:358
 msgid "Customize the look & feel of your website buttons."
@@ -659,7 +659,7 @@ msgstr "Cabecera"
 
 #: inc/customizer/class-storefront-customizer-control-more.php:28
 msgid "There's a range of %s extensions available to put additional power in your hands. Check out the %s%s%s page in your dashboard for more information."
-msgstr "Hay un montón de extensiones de %s disponibles que ponen en tus manos potenciales mejoras. Revisa la página de %s%s%s en tu escritorio para más información."
+msgstr "Hay un montón de extensiones de %s disponibles que ponen en tus manos potencial adicional. Revisa la página de %s%s%s en tu escritorio para más información."
 
 #: inc/customizer/class-storefront-customizer-control-more.php:34
 msgid "Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!"
@@ -684,7 +684,7 @@ msgstr "Activar"
 
 #: content-none.php:29
 msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
-msgstr "Parece que no encontramos lo que estás buscas. Es posible que te ayude hacer una búsqueda."
+msgstr "Parece que no encontramos lo que estás buscando. Tal vez te ayude hacer una búsqueda."
 
 #: content-none.php:24
 msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
@@ -723,7 +723,7 @@ msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
 
 #: 404.php:19
 msgid "Oops! That page can&rsquo;t be found."
-msgstr "¡Vaya! Está página no se encuentra."
+msgstr "¡Vaya! Esta página no se encuentra."
 
 #. Author of the plugin/theme
 msgid "Automattic"

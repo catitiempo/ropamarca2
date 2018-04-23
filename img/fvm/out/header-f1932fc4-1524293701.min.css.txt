@@ -1,9 +1,0 @@
-PROCESSED on Sat, 21 Apr 2018 06:55:24 +0000
-/wp-includes/css/dashicons.min.css --- Debug: [dashicons] File was opened from /Users/catipel/Sites/ropamarca/wp-includes/css/dashicons.min.css ---
-/wp-includes/css/admin-bar.min.css --- Debug: [admin-bar] File was opened from /Users/catipel/Sites/ropamarca/wp-includes/css/admin-bar.min.css ---
-/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css --- Debug: [woocommerce-layout] File was opened from /Users/catipel/Sites/ropamarca/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css ---
-/wp-content/plugins/woocommerce/assets/css/woocommerce.css --- Debug: [woocommerce-general] File was opened from /Users/catipel/Sites/ropamarca/wp-content/plugins/woocommerce/assets/css/woocommerce.css ---
-/wp-content/plugins/imagify/assets/css/admin-bar.min.css --- Debug: [imagify-admin-bar] File was opened from /Users/catipel/Sites/ropamarca/wp-content/plugins/imagify/assets/css/admin-bar.min.css ---
-//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css --- Debug: [bootstrap] Fetched url at https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css 
-/wp-content/themes/ropamarca/style.css --- Debug: [ropamarca-styles] File was opened from /Users/catipel/Sites/ropamarca/wp-content/themes/ropamarca/style.css ---
-PROCESSED from https://localhost/ropamarca/ropamarca/

@@ -9,14 +9,12 @@ remove_action( 'woocommerce_before_main_content', 'woocommerce_output_content_wr
 remove_action( 'woocommerce_after_main_content', 'woocommerce_output_content_wrapper_end', 10 );
 
 function my_before_main_content() {
-    echo '<!-- Starting content wrapper for your theme -->';
     echo '<div class="container"><div class="row"><div class="col-sm-12">';
 }
 add_action( 'woocommerce_before_main_content', 'my_before_main_content' );
 
 function my_after_main_content() {
     echo '</div></div></div>';
-    echo '<!-- Ending content wrapper for your theme -->';
 }
 add_action( 'woocommerce_after_main_content', 'my_after_main_content' );
 
@@ -90,7 +88,7 @@ function load_ropamarca_scripts()
     wp_enqueue_script('fontawesome', 'https://use.fontawesome.com/025d1f53df.js', array(), null);
     wp_enqueue_script('popper', 'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js', array('jquery'), '1.12.3', true);
     wp_enqueue_script('bootstrap', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js', array('jquery'), '4.0.0', true);
-//wp_enqueue_script( 'ropamarca-scripts', get_template_directory_uri() . '/js/general.js', array('jquery'), '1.0.0', true );
+    wp_enqueue_script( 'ropamarca-scripts', get_template_directory_uri() . '/js/general.js', array('jquery'), '1.0.0', true );
 }
 
 add_action( 'wp_enqueue_scripts', 'load_ropamarca_scripts' );
@@ -125,6 +123,8 @@ register_nav_menus( array(
     'top_right'=> __( 'Top Right Menu', 'ropamarca' ),
     'footer' => __( 'Footer Menu', 'ropamarca' ),
 ) );
+
+
 
 /*
  * Add classes to main menu
@@ -194,57 +194,65 @@ function ropamarcaBtnFunc($atts, $content = null) {
 // home elements
 // slider
 
-add_shortcode('home_slider','fasfood_home_slider');
+add_shortcode('home_slider','ropamarca_home_slider');
 /**
  * @return string
  */
-function fasfood_home_slider(){
+function ropamarca_home_slider(){
     $args = array(
         'post_type' => 'ropamarca_slider',
         'posts_per_page' => 5
     );
     $loop = new WP_Query( $args );
 
-    if ($loop->have_posts()) : ?>
-        <div class="container-slider">
+    $cadena = '';
+
+    if ($loop->have_posts()) {
+
+    $cadena .='
+<div class="container-slider">
             <div id="ropamarca-slider-home" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <?php
+                <ol class="carousel-indicators">';
                     $l = $loop->post_count;
-                    for ($i = 0; $i < $l; $i++) { ?>
+                    for ($i = 0; $i < $l; $i++) {
+                        $cadena .='
                         <li data-target="#ropamarca-slider-home"
-                            data-slide-to="<?php echo $i; ?>"
-                            <?php if ($i == 0) { ?> class="active"<?php } ?>>
-                        </li>
-                        <?php
+                            data-slide-to="'.$i.'"';
+                            if ($i == 0)
+                                $cadena .='class="active"';
+                        $cadena .= '>
+                        </li>';
                     }
-                    ?>
+        $cadena .='
                 </ol>
-                <div class="carousel-inner" role="listbox">
-                    <?php
-                    $n = 0;
-                    while ( $loop->have_posts() ) : $loop->the_post(); ?>
-                        <div class="carousel-item <?php if($n == 0) { echo 'active'; } ?>">
+<div class="carousel-inner" role="listbox">';
+    $n = 0;
+    while ( $loop->have_posts() ) {
+        $loop_post = $loop->the_post();
+        $cadena .='<div class="carousel-item ';
+        if($n == 0) { $cadena .= 'active'; }
+        $cadena .= '
+        ">';
+        $cadena .= get_the_post_thumbnail( $loop_post->ID, 'ropamarca-featured-image' );
+        $cadena .= '<div class="carousel-caption">';
+        $content = get_the_content( );
+        $content = apply_filters( 'the_content', $content );
+        $content = str_replace( ']]>', ']]&gt;', $content );
+        $cadena .= $content;
+        $cadena .='
 
-                            <?php echo get_the_post_thumbnail( $loop->ID, 'ropamarca-featured-image' ); ?>
-
-                            <div class="carousel-caption">
-
-                                <?php the_content(); ?>
-
-                            </div>
-
-                        </div>
-                        <?php
-                        $n++;
-                    endwhile;
-                    ?>
-                </div>
             </div>
-        </div>
-        <div class="container">
-        <?php
-    endif;
+
+        </div>';
+        $n++;
+    }
+
+    $cadena .='
+</div>
+</div>
+</div>';
+    }
+    return $cadena;
 }
 
 function ropamarca_print_custom_breadcrumb($breadcrumb){
@@ -258,8 +266,99 @@ function ropamarca_print_custom_breadcrumb($breadcrumb){
     }
     print_r('</nav>');
 
-//    <a href="https://localhost/ropamarca">Inicio</a>&nbsp;/&nbsp;
-//    <a href="https://localhost/ropamarca/mujer/">Mujer</a>&nbsp;/&nbsp;
-//    Camisetas
+}
 
+
+function get_brands( $display_as, $columns, $hide_empty ){
+
+    $brands = get_terms( 'pwb-brand',array( 'hide_empty' => $hide_empty ) );
+    $cadena = '';
+
+    if(is_array($brands) && count($brands)>0){
+        $cadena.= '<ul class="row marcas">';
+        foreach ($brands as $brand) {
+            $brand_name = $brand->name;
+            $brand_link = get_term_link( $brand->term_id );
+
+            $attachment_id = get_term_meta( $brand->term_id, 'pwb_brand_image', 1 );
+            $brand_logo = wp_get_attachment_image( $attachment_id, 'full' );
+
+            $li_class = ( $display_as == 'brand_logo' ) ? "col-sm-4" : "";
+            $cadena.= '<li class="'. $li_class .'">';
+            if( $display_as == 'brand_logo' && !empty( $brand_logo ) ){
+                $cadena.= '<a href="'.$brand_link.'" title="Ir a '.$brand->name.'">'.$brand_logo.'</a>';
+            }else{
+                $cadena.= '<a href="'.$brand_link.'" title="Ir a '.$brand->name.'">'.$brand->name.'</a>';
+            }
+            $cadena.= '</li>';
+        }
+        $cadena.= '</ul>';
+    }else{
+        $cadena.= 'No hay marcas disponibles';
+    }
+    return $cadena;
+
+}
+
+
+add_shortcode('home_marcas','ropamarca_home_marcas');
+
+function ropamarca_home_marcas(){
+    return get_brands('brand_logo',5,false);
+}
+
+
+
+// Register sidebars
+add_action( 'widgets_init', 'ropamarcaWidgetsInit' );
+
+function ropamarcaWidgetsInit() {
+    register_sidebar( array(
+        'name' => __( 'Posts sidebar', 'ropamarca' ),
+        'id' => 'sidebar-posts',
+        'description' => __( 'Widgets in this area will be shown on all posts.', 'ropamarca' ),
+        'before_widget' => '<div id="%1$s" class="widget %2$s">',
+        'after_widget'  => '</div>',
+        'before_title'  => '<h2 class="widgettitle">',
+        'after_title'   => '</h2>',
+    ) );
+}
+
+
+// buscador
+
+/**
+ * Add search box to primary menu
+ */
+add_filter('wp_nav_menu_items', 'get_search_form_ropamarca', 10, 2);
+
+
+function get_search_form_ropamarca( $items, $args ) {
+
+    // If this isn't the primary menu, do nothing
+    if( !($args->theme_location == 'top') )
+        return $items;
+
+    do_action( 'pre_get_search_form' );
+
+
+    $search_form_template = locate_template( 'searchform.php' );
+    if ( '' != $search_form_template ) {
+        ob_start();
+        require( $search_form_template );
+        $form = ob_get_clean();
+    } else {
+            $form =
+                '<form class="form-inline my-2 my-lg-0" role="search" method="get" class="search-form" action="' . esc_url( home_url( '/' ) ) . '">
+				<input class="search-field form-control mr-sm-2" type="search" class="" placeholder="' . esc_attr_x( 'Introduce producto', 'placeholder' ) . '" value="" name="s" />
+				<button type="submit" class="btn btn-warning my-2 my-sm-0 search-submit">'. esc_attr_x( 'Search', 'submit button' ) .'</button>
+			</form>';
+
+    }
+    $result = apply_filters( 'get_search_form', $form );
+
+    if ( null === $result )
+        $result = $form;
+
+    return $items . '<div id="item-search">' . $result . '</div>';
 }

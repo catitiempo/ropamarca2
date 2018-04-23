@@ -16,7 +16,6 @@
  * @version     3.3.0
  */
 
-echo 'hola, marca';
 if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }

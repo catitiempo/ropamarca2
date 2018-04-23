@@ -403,29 +403,201 @@ img {
   text-align: center;
 }
 
+@media (max-width: 360px){
+  #wp-admin-bar-top-secondary{
+    max-width: 10px;
+  }
+}
 /* Small devices (landscape phones, 576px and up)*/
-@media (max-width: 576px) {
+@media (max-width: 767px) {
+  #wrap{
+    &.menu-opened{
+      position: fixed;
+      z-index: 200000;
+    }
+  }
+  header{
+    float: left;
+    padding: 0;
+    border: 0;
+    position: relative;
+    width: 100%;
+    .cont-logo-uc{
+      width: auto;
+      margin: 0;
+      padding: 0;
+      max-width: 100%;
+      .logo-uc{
+        margin: 0;
+        display: block;
+        flex-wrap: inherit;
+        .div-logo{
+          padding: 0;
+          float: left;
+        }
+        .div-user{
+          padding: 0;
+          float: left;
+          .fs-60 {
+            font-size: 38px !important;
+          }
+          ul{
+            margin-bottom: 0;
+            padding-left: 16%;
+            li{
+              height: 50px;
+              padding-top: 4px;
+              &.li-cart{
+                .count{
+                  border-radius: 16px;
+                  top: 2px;
+                  height: 16px;
+                  width: 16px;
+                  line-height: 16px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  #main{
+    float: left;
+  }
+  footer{
+    float: left;
+  }
   .carousel-caption{
     width: 50%;
   }
   .carousel-indicators li{
     top:25px !important;
   }
+
+  .menu-bar{
+    float: left;
+    height: 50px;
+    margin: 0;
+    position: unset;
+    background-color: transparent;
+    nav{
+      padding: 6px 0 0 0;
+      position: unset;
+      button{
+        padding: 0;
+        color: white;
+        border-color: white;
+        background: #ea3d3d;
+      }
+      .menu-mv{
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: calc(100vh - 96px);
+        background-color: #fff;
+        top: 50px;
+        right: 0;
+        z-index: 200;
+        overflow: scroll;
+        /* display: block; */
+        //position: fixed;
+        //z-index: 20000000;
+        padding: 0 16px;
+        ul{
+          li{
+            margin: 0;
+            a{
+              font-size: 16px;
+              cursor: pointer;
+              color: #1a1a1a;
+              text-decoration: none;
+              font-weight: 400;
+              /* padding-bottom: 2px; */
+              border-bottom: 2px solid transparent;
+              transition: border-bottom .1s;
+              position: relative;
+              display: block;
+              border-top: 1px solid #f3f3f3;
+              padding: 13px 0;
+              line-height: 16px;
+            }
+          }
+          #item-search {
+            margin-bottom: 50px;
+
+          }
+        }
+        .menu-item-has-children{
+          .sub-menu {
+            display: block;
+            position: relative;
+            padding: 0;
+            min-width: 0;
+            text-align: left;
+            background-color: transparent;
+            box-shadow: none;
+            left: 0;
+            border: none;
+            li{
+              width: 100%;
+            }
+          }
+
+        }
+
+
+
+      }
+
+    }
+  }
+  #wpadminbar{
+    &.menu-opened{
+      position: fixed;
+    }
+  }
 }
 
+@media only screen and (min-width: 577px) and (max-width: 767px){
+
+  .div-user{
+    margin-top: 2%;
+     ul{
+
+       padding-left: 16%;
+
+     }
+   }
+  .menu-bar{
+    margin-top: 2%;
+  }
+}
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-
+  #item-search {
+    position: absolute;
+    top: 5px;
+    right: 0;
+  }
 }
 
 /*  Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-
+  #item-search{
+    position: absolute;
+    top: 13px;
+    right: 0;
+  }
 }
 
 /*  Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-
+  #item-search{
+    position: absolute;
+    top: 13px;
+    right: 0;
+  }
 }
 
 

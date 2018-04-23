@@ -24,11 +24,12 @@
 
   </head>
   <body <?php body_class(); ?>>
+  <div id="wrap">
     <header>
-      <div class="container">
-        <div class="row">
+      <div class="container cont-logo-uc">
+        <div class="logo-uc row">
 
-          <div class="col-md-6 text-center text-md-left">
+          <div class="div-logo col-6 col-sm-8 col-md-6 text-center text-md-left">
             <?php
             if ( is_front_page() != true ) {
                 echo '<a href="'. esc_url( home_url( '/' ) ) .'" title="Ropa de marca">';
@@ -46,7 +47,7 @@
                 if(ropamarca_is_woocommerce_activated()){
                     echo '
 
-            <div class="col-sm-6 text-md-right">
+            <div class="div-user col-4 col-sm-2 col-md-6 text-md-right">
                 <ul>
                 <li class="list-inline-item li-cart">
                     <a href="'.esc_url( wc_get_cart_url() ) . '" title="Ver tu carrito">
@@ -70,8 +71,8 @@
         </div>
       </div>
 
-      <div class="menu-bar text-xs-right">
-        <nav class="container navbar navbar-expand-sm navbar-light">
+      <div class="col-2 col-sm-2 col-md-12 menu-bar text-xs-right">
+        <nav class="container navbar navbar-expand-md navbar-light">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -79,11 +80,12 @@
           wp_nav_menu( array(
               'theme_location' => 'top',
               'container' => 'div',
-              'container_class' => 'collapse navbar-collapse',
+              'container_class' => 'collapse navbar-collapse menu-mv',
               'container_id'    => 'navbarSupportedContent',
               'menu_class' => 'menu-list list-inline navbar-nav mr-auto'
           ) );
           ?>
+          <?php //echo get_search_form_ropamarca() ?>
         </nav>
 
       </div>
